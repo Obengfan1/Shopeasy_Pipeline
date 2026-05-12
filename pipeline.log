@@ -1,0 +1,64 @@
+2026-05-12 11:30:08,910 — INFO — Scheduler started
+2026-05-12 11:30:08,910 — INFO — Pipeline started
+2026-05-12 11:30:08,910 — INFO — Stage 1: Scraping...
+2026-05-12 11:30:08,910 — ERROR — Stage 1 FAILED: name 'extract' is not defined
+2026-05-12 11:37:08,270 — INFO — Scheduler started
+2026-05-12 11:37:08,271 — INFO — Pipeline started
+2026-05-12 11:37:08,271 — INFO — Stage 1: Scraping...
+2026-05-12 11:37:08,271 — ERROR — Stage 1 FAILED: name 'extract' is not defined
+2026-05-12 11:39:45,599 — INFO — Scheduler started
+2026-05-12 11:39:45,600 — INFO — Pipeline started
+2026-05-12 11:39:45,600 — INFO — Stage 1: Scraping...
+2026-05-12 11:39:45,600 — ERROR — Stage 1 FAILED: module 'extract' has no attribute 'extract'
+2026-05-12 11:43:53,034 — INFO — Scheduler started
+2026-05-12 11:43:53,034 — INFO — Pipeline started
+2026-05-12 11:43:53,034 — INFO — Stage 1: Scraping...
+2026-05-12 11:49:42,275 — INFO — Scheduler started
+2026-05-12 11:49:42,276 — INFO — Pipeline started
+2026-05-12 11:49:42,276 — INFO — Stage 1: Scraping...
+2026-05-12 11:52:23,124 — INFO — Scraped 977 books
+2026-05-12 11:52:23,125 — INFO — Stage 2: Cleaning data...
+2026-05-12 11:52:23,127 — ERROR — Stage 2 FAILED: DataFrame constructor not properly called!
+2026-05-12 11:56:52,208 — INFO — Scheduler started
+2026-05-12 11:56:52,208 — INFO — Pipeline started
+2026-05-12 11:56:52,208 — INFO — Stage 1: Scraping...
+2026-05-12 11:57:11,033 — ERROR — Stage 1 FAILED: HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/category/books/sequential-art_5/page-4.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+2026-05-12 12:01:37,869 — INFO — Scheduler started
+2026-05-12 12:01:37,869 — INFO — Pipeline started
+2026-05-12 12:01:37,869 — INFO — Stage 1: Scraping...
+2026-05-12 12:05:08,987 — INFO — Scraped 1000 books
+2026-05-12 12:05:08,990 — INFO — Stage 2: Cleaning data...
+2026-05-12 12:05:09,039 — INFO — Data cleaned and saved to clean_books.csv
+2026-05-12 12:05:09,039 — INFO — Stage 3: Loading to database...
+2026-05-12 12:05:09,321 — ERROR — Stage 3 FAILED: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "shopeasy" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-05-12 12:11:48,386 — INFO — Scheduler started
+2026-05-12 12:11:48,386 — INFO — Pipeline started
+2026-05-12 12:11:48,386 — INFO — Stage 1: Scraping...
+2026-05-12 12:15:19,243 — INFO — Scraped 1000 books
+2026-05-12 12:15:19,244 — INFO — Stage 2: Cleaning data...
+2026-05-12 12:15:19,298 — INFO — Data cleaned and saved to clean_books.csv
+2026-05-12 12:15:19,298 — INFO — Stage 3: Loading to database...
+2026-05-12 12:15:19,417 — ERROR — Stage 3 FAILED: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "shopeasy" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-05-12 12:21:39,751 — INFO — Scheduler started
+2026-05-12 12:21:39,752 — INFO — Pipeline started
+2026-05-12 12:21:39,752 — INFO — Stage 1: Scraping...
+2026-05-12 12:25:10,041 — INFO — Scraped 1000 books
+2026-05-12 12:25:10,043 — INFO — Stage 2: Cleaning data...
+2026-05-12 12:25:10,113 — INFO — Data cleaned and saved to clean_books.csv
+2026-05-12 12:25:10,113 — INFO — Stage 3: Loading to database...
+2026-05-12 12:25:10,200 — ERROR — Stage 3 FAILED: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "shopeasy" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2026-05-12 12:42:56,256 — INFO — Scheduler started
+2026-05-12 12:42:56,256 — INFO — Pipeline started
+2026-05-12 12:42:56,256 — INFO — Stage 1: Scraping...
+2026-05-12 12:46:26,682 — INFO — Scraped 1000 books
+2026-05-12 12:46:26,684 — INFO — Stage 2: Cleaning data...
+2026-05-12 12:46:26,759 — INFO — Data cleaned and saved to clean_books.csv
+2026-05-12 12:46:26,759 — INFO — Stage 3: Loading to database...
+2026-05-12 12:46:27,698 — INFO — Data loaded to database
+2026-05-12 12:46:27,698 — INFO — Pipeline completed in 211s

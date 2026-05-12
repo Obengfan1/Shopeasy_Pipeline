@@ -1,0 +1,6002 @@
+[
+  {
+    "name": "It's Only the Himalayas",
+    "price": "\u00a345.17",
+    "rating": 2,
+    "category": "Travel"
+  },
+  {
+    "name": "Full Moon over Noah\u2019s Ark: An Odyssey to Mount Ararat and Beyond",
+    "price": "\u00a349.43",
+    "rating": 4,
+    "category": "Travel"
+  },
+  {
+    "name": "See America: A Celebration of Our National Parks & Treasured Sites",
+    "price": "\u00a348.87",
+    "rating": 3,
+    "category": "Travel"
+  },
+  {
+    "name": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+    "price": "\u00a336.94",
+    "rating": 2,
+    "category": "Travel"
+  },
+  {
+    "name": "Under the Tuscan Sun",
+    "price": "\u00a337.33",
+    "rating": 3,
+    "category": "Travel"
+  },
+  {
+    "name": "A Summer In Europe",
+    "price": "\u00a344.34",
+    "rating": 2,
+    "category": "Travel"
+  },
+  {
+    "name": "The Great Railway Bazaar",
+    "price": "\u00a330.54",
+    "rating": 1,
+    "category": "Travel"
+  },
+  {
+    "name": "A Year in Provence (Provence #1)",
+    "price": "\u00a356.88",
+    "rating": 4,
+    "category": "Travel"
+  },
+  {
+    "name": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+    "price": "\u00a323.21",
+    "rating": 1,
+    "category": "Travel"
+  },
+  {
+    "name": "Neither Here nor There: Travels in Europe",
+    "price": "\u00a338.95",
+    "rating": 3,
+    "category": "Travel"
+  },
+  {
+    "name": "1,000 Places to See Before You Die",
+    "price": "\u00a326.08",
+    "rating": 5,
+    "category": "Travel"
+  },
+  {
+    "name": "Sharp Objects",
+    "price": "\u00a347.82",
+    "rating": 4,
+    "category": "Mystery"
+  },
+  {
+    "name": "In a Dark, Dark Wood",
+    "price": "\u00a319.63",
+    "rating": 1,
+    "category": "Mystery"
+  },
+  {
+    "name": "The Past Never Ends",
+    "price": "\u00a356.50",
+    "rating": 4,
+    "category": "Mystery"
+  },
+  {
+    "name": "A Murder in Time",
+    "price": "\u00a316.64",
+    "rating": 1,
+    "category": "Mystery"
+  },
+  {
+    "name": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+    "price": "\u00a344.10",
+    "rating": 4,
+    "category": "Mystery"
+  },
+  {
+    "name": "The Last Mile (Amos Decker #2)",
+    "price": "\u00a354.21",
+    "rating": 2,
+    "category": "Mystery"
+  },
+  {
+    "name": "That Darkness (Gardiner and Renner #1)",
+    "price": "\u00a313.92",
+    "rating": 1,
+    "category": "Mystery"
+  },
+  {
+    "name": "Tastes Like Fear (DI Marnie Rome #3)",
+    "price": "\u00a310.69",
+    "rating": 1,
+    "category": "Mystery"
+  },
+  {
+    "name": "A Time of Torment (Charlie Parker #14)",
+    "price": "\u00a348.35",
+    "rating": 5,
+    "category": "Mystery"
+  },
+  {
+    "name": "A Study in Scarlet (Sherlock Holmes #1)",
+    "price": "\u00a316.73",
+    "rating": 2,
+    "category": "Mystery"
+  },
+  {
+    "name": "Poisonous (Max Revere Novels #3)",
+    "price": "\u00a326.80",
+    "rating": 3,
+    "category": "Mystery"
+  },
+  {
+    "name": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+    "price": "\u00a354.36",
+    "rating": 4,
+    "category": "Mystery"
+  },
+  {
+    "name": "Most Wanted",
+    "price": "\u00a335.28",
+    "rating": 3,
+    "category": "Mystery"
+  },
+  {
+    "name": "Hide Away (Eve Duncan #20)",
+    "price": "\u00a311.84",
+    "rating": 1,
+    "category": "Mystery"
+  },
+  {
+    "name": "Boar Island (Anna Pigeon #19)",
+    "price": "\u00a359.48",
+    "rating": 3,
+    "category": "Mystery"
+  },
+  {
+    "name": "The Widow",
+    "price": "\u00a327.26",
+    "rating": 2,
+    "category": "Mystery"
+  },
+  {
+    "name": "Playing with Fire",
+    "price": "\u00a313.71",
+    "rating": 3,
+    "category": "Mystery"
+  },
+  {
+    "name": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+    "price": "\u00a325.37",
+    "rating": 5,
+    "category": "Mystery"
+  },
+  {
+    "name": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+    "price": "\u00a352.30",
+    "rating": 5,
+    "category": "Mystery"
+  },
+  {
+    "name": "Delivering the Truth (Quaker Midwife Mystery #1)",
+    "price": "\u00a320.89",
+    "rating": 4,
+    "category": "Mystery"
+  },
+  {
+    "name": "The Mysterious Affair at Styles (Hercule Poirot #1)",
+    "price": "\u00a324.80",
+    "rating": 4,
+    "category": "Mystery"
+  },
+  {
+    "name": "In the Woods (Dublin Murder Squad #1)",
+    "price": "\u00a338.38",
+    "rating": 2,
+    "category": "Mystery"
+  },
+  {
+    "name": "The Silkworm (Cormoran Strike #2)",
+    "price": "\u00a323.05",
+    "rating": 5,
+    "category": "Mystery"
+  },
+  {
+    "name": "The Exiled",
+    "price": "\u00a343.45",
+    "rating": 3,
+    "category": "Mystery"
+  },
+  {
+    "name": "The Cuckoo's Calling (Cormoran Strike #1)",
+    "price": "\u00a319.21",
+    "rating": 1,
+    "category": "Mystery"
+  },
+  {
+    "name": "Extreme Prey (Lucas Davenport #26)",
+    "price": "\u00a325.40",
+    "rating": 3,
+    "category": "Mystery"
+  },
+  {
+    "name": "Career of Evil (Cormoran Strike #3)",
+    "price": "\u00a324.72",
+    "rating": 2,
+    "category": "Mystery"
+  },
+  {
+    "name": "The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)",
+    "price": "\u00a357.70",
+    "rating": 4,
+    "category": "Mystery"
+  },
+  {
+    "name": "The Girl You Lost",
+    "price": "\u00a312.29",
+    "rating": 5,
+    "category": "Mystery"
+  },
+  {
+    "name": "The Girl In The Ice (DCI Erika Foster #1)",
+    "price": "\u00a315.85",
+    "rating": 3,
+    "category": "Mystery"
+  },
+  {
+    "name": "Blood Defense (Samantha Brinkman #1)",
+    "price": "\u00a320.30",
+    "rating": 3,
+    "category": "Mystery"
+  },
+  {
+    "name": "1st to Die (Women's Murder Club #1)",
+    "price": "\u00a353.98",
+    "rating": 1,
+    "category": "Mystery"
+  },
+  {
+    "name": "Tipping the Velvet",
+    "price": "\u00a353.74",
+    "rating": 1,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+    "price": "\u00a329.69",
+    "rating": 3,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "A Flight of Arrows (The Pathfinders #2)",
+    "price": "\u00a355.53",
+    "rating": 5,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "The House by the Lake",
+    "price": "\u00a336.95",
+    "rating": 1,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Mrs. Houdini",
+    "price": "\u00a330.25",
+    "rating": 5,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "The Marriage of Opposites",
+    "price": "\u00a328.08",
+    "rating": 4,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Glory over Everything: Beyond The Kitchen House",
+    "price": "\u00a345.84",
+    "rating": 3,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Love, Lies and Spies",
+    "price": "\u00a320.55",
+    "rating": 2,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "A Paris Apartment",
+    "price": "\u00a339.01",
+    "rating": 4,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Lilac Girls",
+    "price": "\u00a317.28",
+    "rating": 2,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "The Constant Princess (The Tudor Court #1)",
+    "price": "\u00a316.62",
+    "rating": 3,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "The Invention of Wings",
+    "price": "\u00a337.34",
+    "rating": 1,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "World Without End (The Pillars of the Earth #2)",
+    "price": "\u00a332.97",
+    "rating": 4,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "The Passion of Dolssa",
+    "price": "\u00a328.32",
+    "rating": 5,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Girl With a Pearl Earring",
+    "price": "\u00a326.77",
+    "rating": 1,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Voyager (Outlander #3)",
+    "price": "\u00a321.07",
+    "rating": 5,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "The Red Tent",
+    "price": "\u00a335.66",
+    "rating": 5,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "The Last Painting of Sara de Vos",
+    "price": "\u00a355.55",
+    "rating": 2,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "The Guernsey Literary and Potato Peel Pie Society",
+    "price": "\u00a349.53",
+    "rating": 1,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Girl in the Blue Coat",
+    "price": "\u00a346.83",
+    "rating": 2,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Between Shades of Gray",
+    "price": "\u00a320.79",
+    "rating": 5,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "While You Were Mine",
+    "price": "\u00a341.32",
+    "rating": 5,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "The Secret Healer",
+    "price": "\u00a334.56",
+    "rating": 3,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Starlark",
+    "price": "\u00a325.83",
+    "rating": 3,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Lost Among the Living",
+    "price": "\u00a327.70",
+    "rating": 4,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "A Spy's Devotion (The Regency Spies of London #1)",
+    "price": "\u00a316.97",
+    "rating": 5,
+    "category": "Historical Fiction"
+  },
+  {
+    "name": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+    "price": "\u00a352.29",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+    "price": "\u00a316.28",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "This One Summer",
+    "price": "\u00a319.49",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "The Nameless City (The Nameless City #1)",
+    "price": "\u00a338.16",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Saga, Volume 5 (Saga (Collected Editions) #5)",
+    "price": "\u00a351.04",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+    "price": "\u00a350.40",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+    "price": "\u00a313.61",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Pop Gun War, Volume 1: Gift",
+    "price": "\u00a318.97",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Patience",
+    "price": "\u00a310.16",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+    "price": "\u00a315.44",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+    "price": "\u00a348.41",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+    "price": "\u00a346.91",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+    "price": "\u00a345.61",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+    "price": "\u00a319.92",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",
+    "price": "\u00a329.17",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "I am a Hero Omnibus Volume 1",
+    "price": "\u00a354.63",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Giant Days, Vol. 2 (Giant Days #5-8)",
+    "price": "\u00a322.11",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Danganronpa Volume 1",
+    "price": "\u00a351.99",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Codename Baboushka, Volume 1: The Conclave of Death",
+    "price": "\u00a336.72",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Camp Midnight",
+    "price": "\u00a317.08",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",
+    "price": "\u00a337.92",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "The Shadow Hero (The Shadow Hero)",
+    "price": "\u00a333.14",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Fables, Vol. 1: Legends in Exile (Fables #1)",
+    "price": "\u00a341.62",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Batman: The Long Halloween (Batman)",
+    "price": "\u00a336.50",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Batman: The Dark Knight Returns (Batman)",
+    "price": "\u00a315.38",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",
+    "price": "\u00a337.34",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",
+    "price": "\u00a353.90",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Through the Woods",
+    "price": "\u00a325.38",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)",
+    "price": "\u00a311.89",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",
+    "price": "\u00a335.43",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Robin War",
+    "price": "\u00a347.82",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",
+    "price": "\u00a325.48",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",
+    "price": "\u00a338.39",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Lowriders to the Center of the Earth (Lowriders in Space #2)",
+    "price": "\u00a351.51",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "El Deafo",
+    "price": "\u00a357.62",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Batman: Europa",
+    "price": "\u00a332.01",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Art Ops Vol. 1",
+    "price": "\u00a348.80",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Adulthood Is a Myth: A \"Sarah's Scribbles\" Collection",
+    "price": "\u00a310.90",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Fruits Basket, Vol. 9 (Fruits Basket #9)",
+    "price": "\u00a333.95",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Roller Girl",
+    "price": "\u00a314.10",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Fruits Basket, Vol. 7 (Fruits Basket #7)",
+    "price": "\u00a319.57",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Fruits Basket, Vol. 6 (Fruits Basket #6)",
+    "price": "\u00a320.96",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Death Note, Vol. 6: Give-and-Take (Death Note #6)",
+    "price": "\u00a336.39",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Fruits Basket, Vol. 5 (Fruits Basket #5)",
+    "price": "\u00a316.33",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Death Note, Vol. 5: Whiteout (Death Note #5)",
+    "price": "\u00a352.41",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",
+    "price": "\u00a327.88",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Fruits Basket, Vol. 4 (Fruits Basket #4)",
+    "price": "\u00a350.44",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",
+    "price": "\u00a314.41",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",
+    "price": "\u00a355.55",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Saga, Volume 3 (Saga (Collected Editions) #3)",
+    "price": "\u00a321.57",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Prodigy: The Graphic Novel (Legend: The Graphic Novel #2)",
+    "price": "\u00a343.63",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Persepolis: The Story of a Childhood (Persepolis #1-2)",
+    "price": "\u00a339.13",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Original Fake",
+    "price": "\u00a331.45",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Grayson, Vol 3: Nemesis (Grayson #3)",
+    "price": "\u00a342.72",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Fruits Basket, Vol. 3 (Fruits Basket #3)",
+    "price": "\u00a345.17",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Black Butler, Vol. 1 (Black Butler #1)",
+    "price": "\u00a349.31",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Awkward",
+    "price": "\u00a338.02",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",
+    "price": "\u00a354.81",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Saga, Volume 2 (Saga (Collected Editions) #2)",
+    "price": "\u00a311.75",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Fruits Basket, Vol. 2 (Fruits Basket #2)",
+    "price": "\u00a311.64",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",
+    "price": "\u00a318.51",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",
+    "price": "\u00a336.52",
+    "rating": 2,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",
+    "price": "\u00a354.12",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "The Complete Maus (Maus #1-2)",
+    "price": "\u00a310.64",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Skip Beat!, Vol. 01 (Skip Beat! #1)",
+    "price": "\u00a342.12",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Saga, Volume 1 (Saga (Collected Editions) #1)",
+    "price": "\u00a328.48",
+    "rating": 1,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",
+    "price": "\u00a346.96",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Paper Girls, Vol. 1 (Paper Girls #1-5)",
+    "price": "\u00a321.71",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",
+    "price": "\u00a329.87",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",
+    "price": "\u00a339.39",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",
+    "price": "\u00a345.24",
+    "rating": 3,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Giant Days, Vol. 1 (Giant Days #1-4)",
+    "price": "\u00a356.76",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Fruits Basket, Vol. 1 (Fruits Basket #1)",
+    "price": "\u00a340.28",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",
+    "price": "\u00a334.65",
+    "rating": 5,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",
+    "price": "\u00a357.06",
+    "rating": 4,
+    "category": "Sequential Art"
+  },
+  {
+    "name": "The Secret Garden",
+    "price": "\u00a315.08",
+    "rating": 4,
+    "category": "Classics"
+  },
+  {
+    "name": "The Metamorphosis",
+    "price": "\u00a328.58",
+    "rating": 1,
+    "category": "Classics"
+  },
+  {
+    "name": "The Pilgrim's Progress",
+    "price": "\u00a350.26",
+    "rating": 2,
+    "category": "Classics"
+  },
+  {
+    "name": "The Hound of the Baskervilles (Sherlock Holmes #5)",
+    "price": "\u00a314.82",
+    "rating": 2,
+    "category": "Classics"
+  },
+  {
+    "name": "Little Women (Little Women #1)",
+    "price": "\u00a328.07",
+    "rating": 4,
+    "category": "Classics"
+  },
+  {
+    "name": "Gone with the Wind",
+    "price": "\u00a332.49",
+    "rating": 3,
+    "category": "Classics"
+  },
+  {
+    "name": "Candide",
+    "price": "\u00a358.63",
+    "rating": 3,
+    "category": "Classics"
+  },
+  {
+    "name": "Animal Farm",
+    "price": "\u00a357.22",
+    "rating": 3,
+    "category": "Classics"
+  },
+  {
+    "name": "Wuthering Heights",
+    "price": "\u00a317.73",
+    "rating": 3,
+    "category": "Classics"
+  },
+  {
+    "name": "The Picture of Dorian Gray",
+    "price": "\u00a329.70",
+    "rating": 2,
+    "category": "Classics"
+  },
+  {
+    "name": "The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])",
+    "price": "\u00a326.78",
+    "rating": 4,
+    "category": "Classics"
+  },
+  {
+    "name": "Beowulf",
+    "price": "\u00a338.35",
+    "rating": 2,
+    "category": "Classics"
+  },
+  {
+    "name": "And Then There Were None",
+    "price": "\u00a335.01",
+    "rating": 2,
+    "category": "Classics"
+  },
+  {
+    "name": "The Story of Hong Gildong",
+    "price": "\u00a343.19",
+    "rating": 4,
+    "category": "Classics"
+  },
+  {
+    "name": "The Little Prince",
+    "price": "\u00a345.42",
+    "rating": 2,
+    "category": "Classics"
+  },
+  {
+    "name": "Sense and Sensibility",
+    "price": "\u00a337.46",
+    "rating": 1,
+    "category": "Classics"
+  },
+  {
+    "name": "Of Mice and Men",
+    "price": "\u00a347.11",
+    "rating": 2,
+    "category": "Classics"
+  },
+  {
+    "name": "Emma",
+    "price": "\u00a332.93",
+    "rating": 2,
+    "category": "Classics"
+  },
+  {
+    "name": "Alice in Wonderland (Alice's Adventures in Wonderland #1)",
+    "price": "\u00a355.53",
+    "rating": 1,
+    "category": "Classics"
+  },
+  {
+    "name": "Sophie's World",
+    "price": "\u00a315.94",
+    "rating": 5,
+    "category": "Philosophy"
+  },
+  {
+    "name": "The Death of Humanity: and the Case for Life",
+    "price": "\u00a358.11",
+    "rating": 4,
+    "category": "Philosophy"
+  },
+  {
+    "name": "The Stranger",
+    "price": "\u00a317.44",
+    "rating": 4,
+    "category": "Philosophy"
+  },
+  {
+    "name": "Proofs of God: Classical Arguments from Tertullian to Barth",
+    "price": "\u00a354.21",
+    "rating": 1,
+    "category": "Philosophy"
+  },
+  {
+    "name": "Kierkegaard: A Christian Missionary to Christians",
+    "price": "\u00a347.13",
+    "rating": 1,
+    "category": "Philosophy"
+  },
+  {
+    "name": "At The Existentialist Caf\u00e9: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",
+    "price": "\u00a329.93",
+    "rating": 5,
+    "category": "Philosophy"
+  },
+  {
+    "name": "Critique of Pure Reason",
+    "price": "\u00a320.75",
+    "rating": 1,
+    "category": "Philosophy"
+  },
+  {
+    "name": "Run, Spot, Run: The Ethics of Keeping Pets",
+    "price": "\u00a320.02",
+    "rating": 1,
+    "category": "Philosophy"
+  },
+  {
+    "name": "The Nicomachean Ethics",
+    "price": "\u00a336.34",
+    "rating": 1,
+    "category": "Philosophy"
+  },
+  {
+    "name": "Meditations",
+    "price": "\u00a325.89",
+    "rating": 2,
+    "category": "Philosophy"
+  },
+  {
+    "name": "Beyond Good and Evil",
+    "price": "\u00a343.38",
+    "rating": 1,
+    "category": "Philosophy"
+  },
+  {
+    "name": "Chase Me (Paris Nights #2)",
+    "price": "\u00a325.27",
+    "rating": 5,
+    "category": "Romance"
+  },
+  {
+    "name": "Black Dust",
+    "price": "\u00a334.53",
+    "rating": 5,
+    "category": "Romance"
+  },
+  {
+    "name": "Her Backup Boyfriend (The Sorensen Family #1)",
+    "price": "\u00a333.97",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "name": "First and First (Five Boroughs #3)",
+    "price": "\u00a315.97",
+    "rating": 4,
+    "category": "Romance"
+  },
+  {
+    "name": "Fifty Shades Darker (Fifty Shades #2)",
+    "price": "\u00a321.96",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "name": "The Wedding Dress",
+    "price": "\u00a324.12",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "name": "Suddenly in Love (Lake Haven #1)",
+    "price": "\u00a355.99",
+    "rating": 2,
+    "category": "Romance"
+  },
+  {
+    "name": "Something More Than This",
+    "price": "\u00a316.24",
+    "rating": 4,
+    "category": "Romance"
+  },
+  {
+    "name": "Doing It Over (Most Likely To #1)",
+    "price": "\u00a335.61",
+    "rating": 3,
+    "category": "Romance"
+  },
+  {
+    "name": "The Wedding Pact (The O'Malleys #2)",
+    "price": "\u00a332.61",
+    "rating": 3,
+    "category": "Romance"
+  },
+  {
+    "name": "Hold Your Breath (Search and Rescue #1)",
+    "price": "\u00a328.82",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "name": "Dirty (Dive Bar #1)",
+    "price": "\u00a340.83",
+    "rating": 4,
+    "category": "Romance"
+  },
+  {
+    "name": "Take Me Home Tonight (Rock Star Romance #3)",
+    "price": "\u00a353.98",
+    "rating": 3,
+    "category": "Romance"
+  },
+  {
+    "name": "Off the Hook (Fishing for Trouble #1)",
+    "price": "\u00a347.67",
+    "rating": 3,
+    "category": "Romance"
+  },
+  {
+    "name": "A Gentleman's Position (Society of Gentlemen #3)",
+    "price": "\u00a314.75",
+    "rating": 5,
+    "category": "Romance"
+  },
+  {
+    "name": "Sit, Stay, Love",
+    "price": "\u00a320.90",
+    "rating": 3,
+    "category": "Romance"
+  },
+  {
+    "name": "A Girl's Guide to Moving On (New Beginnings #2)",
+    "price": "\u00a331.30",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "name": "The Perfect Play (Play by Play #1)",
+    "price": "\u00a359.99",
+    "rating": 3,
+    "category": "Romance"
+  },
+  {
+    "name": "Dark Lover (Black Dagger Brotherhood #1)",
+    "price": "\u00a312.87",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "name": "Changing the Game (Play by Play #2)",
+    "price": "\u00a313.38",
+    "rating": 3,
+    "category": "Romance"
+  },
+  {
+    "name": "A Walk to Remember",
+    "price": "\u00a356.43",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "name": "The Purest Hook (Second Circle Tattoos #3)",
+    "price": "\u00a312.25",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "name": "The Obsession",
+    "price": "\u00a345.43",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "name": "Reservations for Two",
+    "price": "\u00a311.10",
+    "rating": 3,
+    "category": "Romance"
+  },
+  {
+    "name": "Best of My Love (Fool's Gold #20)",
+    "price": "\u00a327.41",
+    "rating": 2,
+    "category": "Romance"
+  },
+  {
+    "name": "Where Lightning Strikes (Bleeding Stars #3)",
+    "price": "\u00a339.77",
+    "rating": 3,
+    "category": "Romance"
+  },
+  {
+    "name": "This One Moment (Pushing Limits #1)",
+    "price": "\u00a348.71",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "name": "Rhythm, Chord & Malykhin",
+    "price": "\u00a328.34",
+    "rating": 2,
+    "category": "Romance"
+  },
+  {
+    "name": "My Perfect Mistake (Over the Top #1)",
+    "price": "\u00a338.92",
+    "rating": 2,
+    "category": "Romance"
+  },
+  {
+    "name": "Listen to Me (Fusion #1)",
+    "price": "\u00a358.99",
+    "rating": 3,
+    "category": "Romance"
+  },
+  {
+    "name": "Imperfect Harmony",
+    "price": "\u00a334.74",
+    "rating": 4,
+    "category": "Romance"
+  },
+  {
+    "name": "Fighting Fate (Fighting #6)",
+    "price": "\u00a339.24",
+    "rating": 3,
+    "category": "Romance"
+  },
+  {
+    "name": "Deep Under (Walker Security #1)",
+    "price": "\u00a347.09",
+    "rating": 5,
+    "category": "Romance"
+  },
+  {
+    "name": "Charity's Cross (Charles Towne Belles #4)",
+    "price": "\u00a341.24",
+    "rating": 1,
+    "category": "Romance"
+  },
+  {
+    "name": "Bounty (Colorado Mountain #7)",
+    "price": "\u00a337.26",
+    "rating": 4,
+    "category": "Romance"
+  },
+  {
+    "name": "I Had a Nice Time And Other Lies...: How to find love & sh*t like that",
+    "price": "\u00a357.36",
+    "rating": 4,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Will You Won't You Want Me?",
+    "price": "\u00a313.86",
+    "rating": 3,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Keep Me Posted",
+    "price": "\u00a320.46",
+    "rating": 4,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Grey (Fifty Shades #4)",
+    "price": "\u00a348.49",
+    "rating": 4,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Meternity",
+    "price": "\u00a343.58",
+    "rating": 3,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Some Women",
+    "price": "\u00a313.73",
+    "rating": 5,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Shopaholic Ties the Knot (Shopaholic #3)",
+    "price": "\u00a348.39",
+    "rating": 5,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Can You Keep a Secret?",
+    "price": "\u00a321.94",
+    "rating": 1,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Twenties Girl",
+    "price": "\u00a342.80",
+    "rating": 2,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "The Undomestic Goddess",
+    "price": "\u00a345.75",
+    "rating": 4,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "The Nanny Diaries (Nanny #1)",
+    "price": "\u00a352.53",
+    "rating": 5,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "The Devil Wears Prada (The Devil Wears Prada #1)",
+    "price": "\u00a344.29",
+    "rating": 1,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Something Borrowed (Darcy & Rachel #1)",
+    "price": "\u00a348.96",
+    "rating": 5,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Something Blue (Darcy & Rachel #2)",
+    "price": "\u00a354.62",
+    "rating": 1,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "I've Got Your Number",
+    "price": "\u00a319.69",
+    "rating": 1,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "The Edge of Reason (Bridget Jones #2)",
+    "price": "\u00a319.18",
+    "rating": 4,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Bridget Jones's Diary (Bridget Jones #1)",
+    "price": "\u00a329.82",
+    "rating": 1,
+    "category": "Womens Fiction"
+  },
+  {
+    "name": "Soumission",
+    "price": "\u00a350.10",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "Private Paris (Private #10)",
+    "price": "\u00a347.61",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "We Love You, Charlie Freeman",
+    "price": "\u00a350.27",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "Thirst",
+    "price": "\u00a317.27",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Murder That Never Was (Forensic Instincts #5)",
+    "price": "\u00a354.11",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "Tuesday Nights in 1980",
+    "price": "\u00a321.04",
+    "rating": 2,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Vacationers",
+    "price": "\u00a342.15",
+    "rating": 4,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Regional Office Is Under Attack!",
+    "price": "\u00a351.36",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "Finders Keepers (Bill Hodges Trilogy #2)",
+    "price": "\u00a353.53",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Time Keeper",
+    "price": "\u00a327.88",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Testament of Mary",
+    "price": "\u00a352.67",
+    "rating": 4,
+    "category": "Fiction"
+  },
+  {
+    "name": "The First Hostage (J.B. Collins #2)",
+    "price": "\u00a325.85",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "Take Me with You",
+    "price": "\u00a345.21",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "Still Life with Bread Crumbs",
+    "price": "\u00a326.41",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "Shtum",
+    "price": "\u00a355.84",
+    "rating": 4,
+    "category": "Fiction"
+  },
+  {
+    "name": "My Name Is Lucy Barton",
+    "price": "\u00a341.56",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "My Mrs. Brown",
+    "price": "\u00a324.48",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "Mr. Mercedes (Bill Hodges Trilogy #1)",
+    "price": "\u00a328.90",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "I Am Pilgrim (Pilgrim #1)",
+    "price": "\u00a310.60",
+    "rating": 4,
+    "category": "Fiction"
+  },
+  {
+    "name": "Eligible (The Austen Project #4)",
+    "price": "\u00a327.09",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "Eight Hundred Grapes",
+    "price": "\u00a314.39",
+    "rating": 4,
+    "category": "Fiction"
+  },
+  {
+    "name": "Dear Mr. Knightley",
+    "price": "\u00a311.21",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "Cometh the Hour (The Clifton Chronicles #6)",
+    "price": "\u00a325.01",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "Balloon Animals",
+    "price": "\u00a317.03",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "A Man Called Ove",
+    "price": "\u00a339.72",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Silent Sister (Riley MacPherson #1)",
+    "price": "\u00a346.29",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Dinner Party",
+    "price": "\u00a356.54",
+    "rating": 2,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Improbability of Love",
+    "price": "\u00a359.45",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "Mothering Sunday",
+    "price": "\u00a313.34",
+    "rating": 2,
+    "category": "Fiction"
+  },
+  {
+    "name": "Lies and Other Acts of Love",
+    "price": "\u00a345.14",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "Daredevils",
+    "price": "\u00a316.34",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "11/22/63",
+    "price": "\u00a348.48",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Shack",
+    "price": "\u00a328.03",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "The High Mountains of Portugal",
+    "price": "\u00a351.15",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "Miller's Valley",
+    "price": "\u00a358.54",
+    "rating": 2,
+    "category": "Fiction"
+  },
+  {
+    "name": "Hystopia: A Novel",
+    "price": "\u00a321.96",
+    "rating": 4,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Bourne Identity (Jason Bourne #1)",
+    "price": "\u00a342.78",
+    "rating": 4,
+    "category": "Fiction"
+  },
+  {
+    "name": "Sister Dear",
+    "price": "\u00a340.20",
+    "rating": 4,
+    "category": "Fiction"
+  },
+  {
+    "name": "Memoirs of a Geisha",
+    "price": "\u00a349.67",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "Me Before You (Me Before You #1)",
+    "price": "\u00a319.02",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "Deception Point",
+    "price": "\u00a340.32",
+    "rating": 4,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Little Paris Bookshop",
+    "price": "\u00a324.73",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Firm",
+    "price": "\u00a345.56",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Expatriates",
+    "price": "\u00a344.58",
+    "rating": 2,
+    "category": "Fiction"
+  },
+  {
+    "name": "Siddhartha",
+    "price": "\u00a334.22",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "Last One Home (New Beginnings #1)",
+    "price": "\u00a359.98",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "Digital Fortress",
+    "price": "\u00a358.00",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "Atlas Shrugged",
+    "price": "\u00a326.58",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "Three-Martini Lunch",
+    "price": "\u00a323.21",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Nightingale",
+    "price": "\u00a326.26",
+    "rating": 4,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Infinities",
+    "price": "\u00a327.41",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Husband's Secret",
+    "price": "\u00a352.51",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Da Vinci Code (Robert Langdon #2)",
+    "price": "\u00a322.96",
+    "rating": 2,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Art of Fielding",
+    "price": "\u00a322.10",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "Lila (Gilead #3)",
+    "price": "\u00a312.47",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "Jurassic Park (Jurassic Park #1)",
+    "price": "\u00a344.97",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "Inferno (Robert Langdon #4)",
+    "price": "\u00a341.00",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "Crazy Rich Asians (Crazy Rich Asians #1)",
+    "price": "\u00a349.13",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "Big Little Lies",
+    "price": "\u00a322.11",
+    "rating": 1,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Course of Love",
+    "price": "\u00a316.78",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "When I'm Gone",
+    "price": "\u00a351.96",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Silent Wife",
+    "price": "\u00a312.34",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "The Bette Davis Club",
+    "price": "\u00a330.66",
+    "rating": 3,
+    "category": "Fiction"
+  },
+  {
+    "name": "Kitchens of the Great Midwest",
+    "price": "\u00a357.20",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "Bright Lines",
+    "price": "\u00a339.07",
+    "rating": 5,
+    "category": "Fiction"
+  },
+  {
+    "name": "Birdsong: A Story in Pictures",
+    "price": "\u00a354.64",
+    "rating": 3,
+    "category": "Childrens"
+  },
+  {
+    "name": "The Bear and the Piano",
+    "price": "\u00a336.89",
+    "rating": 1,
+    "category": "Childrens"
+  },
+  {
+    "name": "The Secret of Dreadwillow Carse",
+    "price": "\u00a356.13",
+    "rating": 1,
+    "category": "Childrens"
+  },
+  {
+    "name": "The White Cat and the Monk: A Retelling of the Poem \u201cPangur B\u00e1n\u201d",
+    "price": "\u00a358.08",
+    "rating": 4,
+    "category": "Childrens"
+  },
+  {
+    "name": "Little Red",
+    "price": "\u00a313.47",
+    "rating": 3,
+    "category": "Childrens"
+  },
+  {
+    "name": "Walt Disney's Alice in Wonderland",
+    "price": "\u00a312.96",
+    "rating": 5,
+    "category": "Childrens"
+  },
+  {
+    "name": "Twenty Yawns",
+    "price": "\u00a322.08",
+    "rating": 2,
+    "category": "Childrens"
+  },
+  {
+    "name": "Rain Fish",
+    "price": "\u00a323.57",
+    "rating": 3,
+    "category": "Childrens"
+  },
+  {
+    "name": "Once Was a Time",
+    "price": "\u00a318.28",
+    "rating": 2,
+    "category": "Childrens"
+  },
+  {
+    "name": "Luis Paints the World",
+    "price": "\u00a353.95",
+    "rating": 3,
+    "category": "Childrens"
+  },
+  {
+    "name": "Nap-a-Roo",
+    "price": "\u00a325.08",
+    "rating": 1,
+    "category": "Childrens"
+  },
+  {
+    "name": "The Whale",
+    "price": "\u00a335.96",
+    "rating": 4,
+    "category": "Childrens"
+  },
+  {
+    "name": "Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",
+    "price": "\u00a352.87",
+    "rating": 3,
+    "category": "Childrens"
+  },
+  {
+    "name": "Raymie Nightingale",
+    "price": "\u00a334.41",
+    "rating": 2,
+    "category": "Childrens"
+  },
+  {
+    "name": "Playing from the Heart",
+    "price": "\u00a332.38",
+    "rating": 1,
+    "category": "Childrens"
+  },
+  {
+    "name": "Maybe Something Beautiful: How Art Transformed a Neighborhood",
+    "price": "\u00a322.54",
+    "rating": 1,
+    "category": "Childrens"
+  },
+  {
+    "name": "The Wild Robot",
+    "price": "\u00a356.07",
+    "rating": 3,
+    "category": "Childrens"
+  },
+  {
+    "name": "The Thing About Jellyfish",
+    "price": "\u00a348.77",
+    "rating": 1,
+    "category": "Childrens"
+  },
+  {
+    "name": "The Lonely Ones",
+    "price": "\u00a343.59",
+    "rating": 5,
+    "category": "Childrens"
+  },
+  {
+    "name": "The Day the Crayons Came Home (Crayons)",
+    "price": "\u00a326.33",
+    "rating": 5,
+    "category": "Childrens"
+  },
+  {
+    "name": "The Cat in the Hat (Beginner Books B-1)",
+    "price": "\u00a316.26",
+    "rating": 2,
+    "category": "Childrens"
+  },
+  {
+    "name": "Red: The True Story of Red Riding Hood",
+    "price": "\u00a328.54",
+    "rating": 3,
+    "category": "Childrens"
+  },
+  {
+    "name": "Horrible Bear!",
+    "price": "\u00a337.52",
+    "rating": 2,
+    "category": "Childrens"
+  },
+  {
+    "name": "Green Eggs and Ham (Beginner Books B-16)",
+    "price": "\u00a310.79",
+    "rating": 4,
+    "category": "Childrens"
+  },
+  {
+    "name": "Counting Thyme",
+    "price": "\u00a310.62",
+    "rating": 1,
+    "category": "Childrens"
+  },
+  {
+    "name": "Are We There Yet?",
+    "price": "\u00a310.66",
+    "rating": 3,
+    "category": "Childrens"
+  },
+  {
+    "name": "Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book)",
+    "price": "\u00a352.88",
+    "rating": 4,
+    "category": "Childrens"
+  },
+  {
+    "name": "Matilda",
+    "price": "\u00a328.34",
+    "rating": 1,
+    "category": "Childrens"
+  },
+  {
+    "name": "Charlie and the Chocolate Factory (Charlie Bucket #1)",
+    "price": "\u00a322.85",
+    "rating": 3,
+    "category": "Childrens"
+  },
+  {
+    "name": "Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",
+    "price": "\u00a337.97",
+    "rating": 2,
+    "category": "Religion"
+  },
+  {
+    "name": "You Are What You Love: The Spiritual Power of Habit",
+    "price": "\u00a321.87",
+    "rating": 4,
+    "category": "Religion"
+  },
+  {
+    "name": "God: The Most Unpleasant Character in All Fiction",
+    "price": "\u00a330.03",
+    "rating": 5,
+    "category": "Religion"
+  },
+  {
+    "name": "The Book of Mormon",
+    "price": "\u00a324.57",
+    "rating": 3,
+    "category": "Religion"
+  },
+  {
+    "name": "A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",
+    "price": "\u00a327.62",
+    "rating": 1,
+    "category": "Religion"
+  },
+  {
+    "name": "The Bhagavad Gita",
+    "price": "\u00a357.49",
+    "rating": 3,
+    "category": "Religion"
+  },
+  {
+    "name": "Choosing Our Religion: The Spiritual Lives of America's Nones",
+    "price": "\u00a328.42",
+    "rating": 4,
+    "category": "Religion"
+  },
+  {
+    "name": "Worlds Elsewhere: Journeys Around Shakespeare\u2019s Globe",
+    "price": "\u00a340.30",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+    "price": "\u00a331.05",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Reasons to Stay Alive",
+    "price": "\u00a326.41",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+    "price": "\u00a323.11",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+    "price": "\u00a344.18",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+    "price": "\u00a331.12",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+    "price": "\u00a316.77",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+    "price": "\u00a337.13",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+    "price": "\u00a356.06",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+    "price": "\u00a341.83",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Reskilling America: Learning to Labor in the Twenty-First Century",
+    "price": "\u00a319.83",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "In the Country We Love: My Family Divided",
+    "price": "\u00a322.00",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Everydata: The Misinformation Hidden in the Little Data You Consume Every Day",
+    "price": "\u00a354.35",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Call the Nurse: True Stories of a Country Nurse on a Scottish Isle",
+    "price": "\u00a329.14",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Algorithms to Live By: The Computer Science of Human Decisions",
+    "price": "\u00a330.81",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Power of Now: A Guide to Spiritual Enlightenment",
+    "price": "\u00a343.54",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Omnivore's Dilemma: A Natural History of Four Meals",
+    "price": "\u00a338.21",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Genius of Birds",
+    "price": "\u00a317.24",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Artist's Way: A Spiritual Path to Higher Creativity",
+    "price": "\u00a338.49",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "So You've Been Publicly Shamed",
+    "price": "\u00a312.23",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+    "price": "\u00a319.43",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Big Magic: Creative Living Beyond Fear",
+    "price": "\u00a330.80",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Becoming Wise: An Inquiry into the Mystery and Art of Living",
+    "price": "\u00a327.43",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Agnostic: A Spirited Manifesto",
+    "price": "\u00a312.51",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity",
+    "price": "\u00a338.20",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "What's It Like in Space?: Stories from Astronauts Who've Been There",
+    "price": "\u00a319.60",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Year of Magical Thinking",
+    "price": "\u00a343.04",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Literature Book (Big Ideas Simply Explained)",
+    "price": "\u00a317.43",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World\u2019s Most Precious Manuscripts",
+    "price": "\u00a315.77",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Swell: A Year of Waves",
+    "price": "\u00a345.58",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon",
+    "price": "\u00a321.95",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Looking for Lovely: Collecting the Moments that Matter",
+    "price": "\u00a329.14",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Let It Out: A Journey Through Journaling",
+    "price": "\u00a326.79",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Hamilton: The Revolution",
+    "price": "\u00a358.79",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",
+    "price": "\u00a315.06",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",
+    "price": "\u00a351.75",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Buying In: The Secret Dialogue Between What We Buy and Who We Are",
+    "price": "\u00a337.80",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Brain on Fire: My Month of Madness",
+    "price": "\u00a349.32",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Abstract City",
+    "price": "\u00a356.37",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "13 Hours: The Inside Account of What Really Happened In Benghazi",
+    "price": "\u00a327.06",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Lonely City: Adventures in the Art of Being Alone",
+    "price": "\u00a333.26",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Diary of a Young Girl",
+    "price": "\u00a359.90",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas",
+    "price": "\u00a321.21",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Furiously Happy: A Funny Book About Horrible Things",
+    "price": "\u00a341.46",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Sleep Revolution: Transforming Your Life, One Night at a Time",
+    "price": "\u00a311.68",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Mother, Can You Not?",
+    "price": "\u00a316.89",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "A Mother's Reckoning: Living in the Aftermath of Tragedy",
+    "price": "\u00a319.53",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",
+    "price": "\u00a324.57",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster",
+    "price": "\u00a335.92",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Zero to One: Notes on Startups, or How to Build the Future",
+    "price": "\u00a334.06",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Why Not Me?",
+    "price": "\u00a317.76",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "When Breath Becomes Air",
+    "price": "\u00a339.36",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",
+    "price": "\u00a328.45",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Smarter Faster Better: The Secrets of Being Productive in Life and Business",
+    "price": "\u00a338.89",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Rising Strong",
+    "price": "\u00a321.82",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Man's Search for Meaning",
+    "price": "\u00a329.48",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",
+    "price": "\u00a325.06",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want",
+    "price": "\u00a312.55",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "I Will Find You",
+    "price": "\u00a344.21",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Brazen: The Courage to Find the You That's Been Hiding",
+    "price": "\u00a319.22",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Between the World and Me",
+    "price": "\u00a356.91",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Being Mortal: Medicine and What Matters in the End",
+    "price": "\u00a355.06",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "A Murder Over a Girl: Justice, Gender, Junior High",
+    "price": "\u00a313.20",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "For the Love: Fighting for Grace in a World of Impossible Standards",
+    "price": "\u00a345.13",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Finding God in the Ruins: How God Redeems Pain",
+    "price": "\u00a346.64",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+    "price": "\u00a359.45",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "In Cold Blood",
+    "price": "\u00a349.98",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Girl, Interrupted",
+    "price": "\u00a342.14",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis",
+    "price": "\u00a348.67",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut",
+    "price": "\u00a325.15",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "My Mother Was Nuts",
+    "price": "\u00a331.63",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Data, A Love Story: How I Gamed Online Dating to Meet My Match",
+    "price": "\u00a332.35",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe",
+    "price": "\u00a338.71",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Gunning of America: Business and the Making of American Gun Culture",
+    "price": "\u00a316.81",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Geography of Bliss: One Grump's Search for the Happiest Places in the World",
+    "price": "\u00a328.23",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "God Is Not Great: How Religion Poisons Everything",
+    "price": "\u00a327.80",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America",
+    "price": "\u00a331.95",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination",
+    "price": "\u00a350.66",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Unstuffed: Decluttering Your Home, Mind, and Soul",
+    "price": "\u00a358.09",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Under the Banner of Heaven: A Story of Violent Faith",
+    "price": "\u00a330.00",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",
+    "price": "\u00a353.51",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Name of God is Mercy",
+    "price": "\u00a337.25",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Stiff: The Curious Lives of Human Cadavers",
+    "price": "\u00a336.74",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Spilled Milk: Based on a True Story",
+    "price": "\u00a349.51",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",
+    "price": "\u00a341.67",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Outliers: The Story of Success",
+    "price": "\u00a314.16",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Notes from a Small Island (Notes From a Small Island #1)",
+    "price": "\u00a340.17",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Night (The Night Trilogy #1)",
+    "price": "\u00a313.51",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",
+    "price": "\u00a357.83",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Letter to a Christian Nation",
+    "price": "\u00a322.20",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Let's Pretend This Never Happened: A Mostly True Memoir",
+    "price": "\u00a345.11",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond",
+    "price": "\u00a342.38",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Into the Wild",
+    "price": "\u00a356.70",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",
+    "price": "\u00a328.85",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban",
+    "price": "\u00a328.88",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Gratitude",
+    "price": "\u00a326.66",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Disrupted: My Misadventure in the Start-Up Bubble",
+    "price": "\u00a315.28",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Brave Enough",
+    "price": "\u00a351.32",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
+    "price": "\u00a327.35",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Blink: The Power of Thinking Without Thinking",
+    "price": "\u00a321.74",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Black Flags: The Rise of ISIS",
+    "price": "\u00a340.87",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Are We Smart Enough to Know How Smart Animals Are?",
+    "price": "\u00a356.58",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+    "price": "\u00a330.48",
+    "rating": 4,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Suffragettes (Little Black Classics, #96)",
+    "price": "\u00a311.89",
+    "rating": 2,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Kindle Paperwhite User's Guide",
+    "price": "\u00a334.00",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "H is for Hawk",
+    "price": "\u00a357.42",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Travels with Charley: In Search of America",
+    "price": "\u00a357.82",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The Tumor",
+    "price": "\u00a341.56",
+    "rating": 5,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "The End of the Jesus Era (An Investigation #1)",
+    "price": "\u00a314.40",
+    "rating": 1,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Eat, Pray, Love",
+    "price": "\u00a351.32",
+    "rating": 3,
+    "category": "Nonfiction"
+  },
+  {
+    "name": "Rip it Up and Start Again",
+    "price": "\u00a335.02",
+    "rating": 5,
+    "category": "Music"
+  },
+  {
+    "name": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+    "price": "\u00a357.25",
+    "rating": 3,
+    "category": "Music"
+  },
+  {
+    "name": "How Music Works",
+    "price": "\u00a337.32",
+    "rating": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Love Is a Mix Tape (Music #1)",
+    "price": "\u00a318.03",
+    "rating": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Please Kill Me: The Uncensored Oral History of Punk",
+    "price": "\u00a331.19",
+    "rating": 4,
+    "category": "Music"
+  },
+  {
+    "name": "Kill 'Em and Leave: Searching for James Brown and the American Soul",
+    "price": "\u00a345.05",
+    "rating": 5,
+    "category": "Music"
+  },
+  {
+    "name": "Chronicles, Vol. 1",
+    "price": "\u00a352.60",
+    "rating": 2,
+    "category": "Music"
+  },
+  {
+    "name": "This Is Your Brain on Music: The Science of a Human Obsession",
+    "price": "\u00a338.40",
+    "rating": 1,
+    "category": "Music"
+  },
+  {
+    "name": "Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",
+    "price": "\u00a312.36",
+    "rating": 3,
+    "category": "Music"
+  },
+  {
+    "name": "No One Here Gets Out Alive",
+    "price": "\u00a320.02",
+    "rating": 5,
+    "category": "Music"
+  },
+  {
+    "name": "Life",
+    "price": "\u00a331.58",
+    "rating": 5,
+    "category": "Music"
+  },
+  {
+    "name": "Old Records Never Die: One Man's Quest for His Vinyl and His Past",
+    "price": "\u00a355.66",
+    "rating": 2,
+    "category": "Music"
+  },
+  {
+    "name": "Forever Rockers (The Rocker #12)",
+    "price": "\u00a328.80",
+    "rating": 3,
+    "category": "Music"
+  },
+  {
+    "name": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "price": "\u00a317.93",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "price": "\u00a322.60",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Starving Hearts (Triangular Trade Trilogy, #1)",
+    "price": "\u00a313.99",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+    "price": "\u00a322.50",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Aladdin and His Wonderful Lamp",
+    "price": "\u00a353.13",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Penny Maybe",
+    "price": "\u00a333.29",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Maude (1883-1993):She Grew Up with the country",
+    "price": "\u00a318.02",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+    "price": "\u00a320.59",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Soul Reader",
+    "price": "\u00a339.58",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Bossypants",
+    "price": "\u00a349.46",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "A World of Flavor: Your Gluten Free Passport",
+    "price": "\u00a342.95",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",
+    "price": "\u00a356.76",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Tracing Numbers on a Train",
+    "price": "\u00a341.60",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Thirteen Reasons Why",
+    "price": "\u00a352.72",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "The Secret (The Secret #1)",
+    "price": "\u00a327.37",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "The Psychopath Test: A Journey Through the Madness Industry",
+    "price": "\u00a336.00",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Kite Runner",
+    "price": "\u00a341.82",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "The Girl on the Train",
+    "price": "\u00a355.02",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Emerald Mystery",
+    "price": "\u00a323.15",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.",
+    "price": "\u00a332.00",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "The Art of War",
+    "price": "\u00a333.34",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Secrets and Lace (Fatal Hearts #1)",
+    "price": "\u00a320.27",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Romero and Juliet: A Tragic Tale of Love and Zombies",
+    "price": "\u00a336.94",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form",
+    "price": "\u00a341.06",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Miss Peregrine\u2019s Home for Peculiar Children (Miss Peregrine\u2019s Peculiar Children #1)",
+    "price": "\u00a310.76",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Large Print Heart of the Pride",
+    "price": "\u00a319.15",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Grumbles",
+    "price": "\u00a322.16",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "First Steps for New Christians (Print Edition)",
+    "price": "\u00a329.00",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Eureka Trivia 6.0",
+    "price": "\u00a354.59",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Drive: The Surprising Truth About What Motivates Us",
+    "price": "\u00a334.95",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Done Rubbed Out (Reightman & Bailey #1)",
+    "price": "\u00a337.72",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Beauty Restored (Riley Family Legacy Novellas #3)",
+    "price": "\u00a311.11",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Ayumi's Violin",
+    "price": "\u00a315.48",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Anonymous",
+    "price": "\u00a346.82",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Amy Meets the Saints and Sages",
+    "price": "\u00a318.46",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Amatus",
+    "price": "\u00a350.54",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "V for Vendetta (V for Vendetta Complete)",
+    "price": "\u00a337.10",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+    "price": "\u00a345.95",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Wright Brothers",
+    "price": "\u00a356.80",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "The Songs of the Gods",
+    "price": "\u00a344.48",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "The Rosie Project (Don Tillman #1)",
+    "price": "\u00a354.04",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "The Power of Habit: Why We Do What We Do in Life and Business",
+    "price": "\u00a316.88",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Steve Jobs",
+    "price": "\u00a339.50",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Luckiest Girl Alive",
+    "price": "\u00a349.83",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",
+    "price": "\u00a346.91",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Lady Midnight (The Dark Artifices #1)",
+    "price": "\u00a316.28",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Hush, Hush (Hush, Hush #1)",
+    "price": "\u00a347.02",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Greek Mythic History",
+    "price": "\u00a310.23",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Every Last Word",
+    "price": "\u00a346.47",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Daily Fantasy Sports",
+    "price": "\u00a336.58",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Clockwork Angel (The Infernal Devices #1)",
+    "price": "\u00a344.14",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "City of Fallen Angels (The Mortal Instruments #4)",
+    "price": "\u00a311.23",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "City of Bones (The Mortal Instruments #1)",
+    "price": "\u00a343.28",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "City of Ashes (The Mortal Instruments #2)",
+    "price": "\u00a347.27",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Carry On, Warrior: Thoughts on Life Unarmed",
+    "price": "\u00a331.85",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Carrie",
+    "price": "\u00a346.23",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Angels & Demons (Robert Langdon #1)",
+    "price": "\u00a351.48",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "The Three Searches, Meaning, and the Story",
+    "price": "\u00a313.33",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Raspberry Pi Electronics Projects for the Evil Genius",
+    "price": "\u00a349.67",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "How to Speak Golf: An Illustrated Guide to Links Lingo",
+    "price": "\u00a358.32",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Eleanor & Park",
+    "price": "\u00a356.51",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Troublemaker: Surviving Hollywood and Scientology",
+    "price": "\u00a348.39",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Adultery",
+    "price": "\u00a320.88",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Unlimited Intuition Now",
+    "price": "\u00a358.87",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Underlying Notes",
+    "price": "\u00a311.82",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The New Brand You: Your New Image Makes the Sale for You",
+    "price": "\u00a344.05",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "The Flowers Lied",
+    "price": "\u00a316.68",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",
+    "price": "\u00a310.41",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Modern Day Fables",
+    "price": "\u00a347.44",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Unlikely Pilgrimage of Harold Fry (Harold Fry #1)",
+    "price": "\u00a343.62",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "The Martian (The Martian #1)",
+    "price": "\u00a341.39",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Left Behind (Left Behind #1)",
+    "price": "\u00a340.72",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "John Vassos: Industrial Design for Modern Life",
+    "price": "\u00a320.22",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "I'll Give You the Sun",
+    "price": "\u00a356.48",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back",
+    "price": "\u00a352.86",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Ender's Game (The Ender Quintet #1)",
+    "price": "\u00a343.64",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Death by Leisure: A Cautionary Tale",
+    "price": "\u00a337.51",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Wildlife of New York: A Five-Borough Coloring Book",
+    "price": "\u00a322.14",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible",
+    "price": "\u00a334.72",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "The Great Gatsby",
+    "price": "\u00a336.05",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "The Good Girl",
+    "price": "\u00a349.03",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+    "price": "\u00a333.17",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Steal Like an Artist: 10 Things Nobody Told You About Being Creative",
+    "price": "\u00a320.90",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Life of Pi",
+    "price": "\u00a313.22",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "The Sound Of Love",
+    "price": "\u00a357.84",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "The Perks of Being a Wallflower",
+    "price": "\u00a355.02",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "The Makings of a Fatherless Child",
+    "price": "\u00a331.58",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Hobbit (Middle-Earth Universe)",
+    "price": "\u00a317.80",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "The Fellowship of the Ring (The Lord of the Rings #1)",
+    "price": "\u00a310.27",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman",
+    "price": "\u00a330.60",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Musicophilia: Tales of Music and the Brain",
+    "price": "\u00a346.58",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+    "price": "\u00a353.68",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "The Fault in Our Stars",
+    "price": "\u00a347.22",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "The Dream Thieves (The Raven Cycle #2)",
+    "price": "\u00a334.50",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "The 5th Wave (The 5th Wave #1)",
+    "price": "\u00a311.83",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Shiver (The Wolves of Mercy Falls #1)",
+    "price": "\u00a316.23",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Remember Me?",
+    "price": "\u00a311.48",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "If I Stay (If I Stay #1)",
+    "price": "\u00a338.13",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1)",
+    "price": "\u00a336.55",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Harry Potter and the Deathly Hallows (Harry Potter #7)",
+    "price": "\u00a323.32",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Fool Me Once",
+    "price": "\u00a316.96",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Drama",
+    "price": "\u00a338.70",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Blue Lily, Lily Blue (The Raven Cycle #3)",
+    "price": "\u00a334.13",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Alight (The Generations Trilogy #2)",
+    "price": "\u00a358.59",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Vogue Colors A to Z: A Fashion Coloring Book",
+    "price": "\u00a352.35",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "The Shining (The Shining #1)",
+    "price": "\u00a327.88",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "The Hunger Games (The Hunger Games #1)",
+    "price": "\u00a329.85",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Outlander (Outlander #1)",
+    "price": "\u00a319.67",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Mockingjay (The Hunger Games #3)",
+    "price": "\u00a320.44",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "Harry Potter and the Sorcerer's Stone (Harry Potter #1)",
+    "price": "\u00a313.90",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Confessions of a Shopaholic (Shopaholic #1)",
+    "price": "\u00a348.94",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Zero History (Blue Ant #3)",
+    "price": "\u00a334.77",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "World War Z: An Oral History of the Zombie War",
+    "price": "\u00a321.80",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Wild: From Lost to Found on the Pacific Crest Trail",
+    "price": "\u00a346.02",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Where'd You Go, Bernadette",
+    "price": "\u00a318.13",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Twilight (Twilight #1)",
+    "price": "\u00a341.93",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Paris Wife",
+    "price": "\u00a336.80",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "The Maze Runner (The Maze Runner #1)",
+    "price": "\u00a320.93",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "The Lover's Dictionary",
+    "price": "\u00a358.09",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Goldfinch",
+    "price": "\u00a343.58",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "The Giver (The Giver Quartet #1)",
+    "price": "\u00a312.30",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "The Girl Who Played with Fire (Millennium Trilogy #2)",
+    "price": "\u00a322.14",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Demon-Haunted World: Science as a Candle in the Dark",
+    "price": "\u00a352.25",
+    "rating": 4,
+    "category": "Default"
+  },
+  {
+    "name": "The Book Thief",
+    "price": "\u00a353.49",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "The Autobiography of Malcolm X",
+    "price": "\u00a323.43",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Shopaholic & Baby (Shopaholic #5)",
+    "price": "\u00a346.45",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "price": "\u00a343.55",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Packing for Mars: The Curious Science of Life in the Void",
+    "price": "\u00a356.68",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "price": "\u00a324.61",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "One for the Money (Stephanie Plum #1)",
+    "price": "\u00a332.87",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Morning Star (Red Rising #3)",
+    "price": "\u00a329.40",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Life After Life",
+    "price": "\u00a326.13",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Lean In: Women, Work, and the Will to Lead",
+    "price": "\u00a325.02",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Is Everyone Hanging Out Without Me? (And Other Concerns)",
+    "price": "\u00a320.11",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Gone Girl",
+    "price": "\u00a337.60",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Fellside",
+    "price": "\u00a338.62",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Eclipse (Twilight #3)",
+    "price": "\u00a318.74",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Dracula",
+    "price": "\u00a352.62",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Dead Wake: The Last Crossing of the Lusitania",
+    "price": "\u00a339.24",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
+    "price": "\u00a317.81",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Dark Places",
+    "price": "\u00a323.90",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Breaking Dawn (Twilight #4)",
+    "price": "\u00a335.28",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Beautiful Creatures (Caster Chronicles #1)",
+    "price": "\u00a321.55",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "A Visit from the Goon Squad",
+    "price": "\u00a314.08",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "The Zombie Room",
+    "price": "\u00a319.69",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "The Name of the Wind (The Kingkiller Chronicle #1)",
+    "price": "\u00a350.59",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Taking Shots (Assassins #1)",
+    "price": "\u00a318.88",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Shatter Me (Shatter Me #1)",
+    "price": "\u00a342.40",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "Paradise Lost (Paradise #1)",
+    "price": "\u00a324.96",
+    "rating": 1,
+    "category": "Default"
+  },
+  {
+    "name": "On the Road (Duluoz Legend)",
+    "price": "\u00a332.36",
+    "rating": 3,
+    "category": "Default"
+  },
+  {
+    "name": "Jane Eyre",
+    "price": "\u00a338.43",
+    "rating": 5,
+    "category": "Default"
+  },
+  {
+    "name": "Frankenstein",
+    "price": "\u00a338.00",
+    "rating": 2,
+    "category": "Default"
+  },
+  {
+    "name": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+    "price": "\u00a337.59",
+    "rating": 1,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "Join",
+    "price": "\u00a335.67",
+    "rating": 5,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",
+    "price": "\u00a343.30",
+    "rating": 4,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "The Project",
+    "price": "\u00a310.65",
+    "rating": 1,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "Soft Apocalypse",
+    "price": "\u00a326.12",
+    "rating": 2,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "Sleeping Giants (Themis Files #1)",
+    "price": "\u00a348.74",
+    "rating": 1,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "Arena",
+    "price": "\u00a321.36",
+    "rating": 4,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "Foundation (Foundation (Publication Order) #1)",
+    "price": "\u00a332.42",
+    "rating": 1,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)",
+    "price": "\u00a310.92",
+    "rating": 1,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "Ready Player One",
+    "price": "\u00a319.07",
+    "rating": 4,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",
+    "price": "\u00a333.26",
+    "rating": 2,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "Dune (Dune #1)",
+    "price": "\u00a354.86",
+    "rating": 1,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+    "price": "\u00a351.48",
+    "rating": 1,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "Three Wishes (River of Time: California #1)",
+    "price": "\u00a344.18",
+    "rating": 2,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "The Last Girl (The Dominion Trilogy #1)",
+    "price": "\u00a336.26",
+    "rating": 2,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+    "price": "\u00a334.96",
+    "rating": 4,
+    "category": "Science Fiction"
+  },
+  {
+    "name": "The Book of Basketball: The NBA According to The Sports Guy",
+    "price": "\u00a344.84",
+    "rating": 5,
+    "category": "Sports and Games"
+  },
+  {
+    "name": "Friday Night Lights: A Town, a Team, and a Dream",
+    "price": "\u00a351.22",
+    "rating": 3,
+    "category": "Sports and Games"
+  },
+  {
+    "name": "Sugar Rush (Offensive Line #2)",
+    "price": "\u00a324.42",
+    "rating": 1,
+    "category": "Sports and Games"
+  },
+  {
+    "name": "Settling the Score (The Summer Games #1)",
+    "price": "\u00a344.91",
+    "rating": 2,
+    "category": "Sports and Games"
+  },
+  {
+    "name": "Icing (Aces Hockey #2)",
+    "price": "\u00a340.44",
+    "rating": 4,
+    "category": "Sports and Games"
+  },
+  {
+    "name": "The Torch Is Passed: A Harding Family Story",
+    "price": "\u00a319.09",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+    "price": "\u00a323.89",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Art Forger",
+    "price": "\u00a340.76",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "On a Midnight Clear",
+    "price": "\u00a314.07",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+    "price": "\u00a353.90",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Shobu Samurai, Project Aryoku (#3)",
+    "price": "\u00a329.06",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Modern Romance",
+    "price": "\u00a328.26",
+    "rating": 5,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The White Queen (The Cousins' War #1)",
+    "price": "\u00a325.91",
+    "rating": 5,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Song of Achilles",
+    "price": "\u00a337.40",
+    "rating": 5,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Immortal Life of Henrietta Lacks",
+    "price": "\u00a340.67",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Dovekeepers",
+    "price": "\u00a348.78",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "More Than Music (Chasing the Dream #1)",
+    "price": "\u00a337.61",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Code Name Verity (Code Name Verity #1)",
+    "price": "\u00a322.13",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Cell",
+    "price": "\u00a320.29",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Angels Walking (Angels Walking #1)",
+    "price": "\u00a334.20",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",
+    "price": "\u00a356.48",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "A People's History of the United States",
+    "price": "\u00a340.79",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "A Brush of Wings (Angels Walking #3)",
+    "price": "\u00a355.51",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Rook",
+    "price": "\u00a337.86",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Midnight Watch: A Novel of the Titanic and the Californian",
+    "price": "\u00a326.20",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore",
+    "price": "\u00a359.15",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Children",
+    "price": "\u00a311.88",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "One with You (Crossfire #5)",
+    "price": "\u00a315.71",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Without Shame",
+    "price": "\u00a348.27",
+    "rating": 5,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Watchmen",
+    "price": "\u00a358.05",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "A Hero's Curse (The Unseen Chronicles #1)",
+    "price": "\u00a350.49",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "23 Degrees South: A Tropical Tale of Changing Whether...",
+    "price": "\u00a335.79",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Glass Castle",
+    "price": "\u00a316.24",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Drowning Girls",
+    "price": "\u00a335.67",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Team of Rivals: The Political Genius of Abraham Lincoln",
+    "price": "\u00a320.12",
+    "rating": 5,
+    "category": "Add a comment"
+  },
+  {
+    "name": "John Adams",
+    "price": "\u00a357.43",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Good in Bed (Cannie Shapiro #1)",
+    "price": "\u00a337.05",
+    "rating": 5,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Joy of Cooking",
+    "price": "\u00a343.27",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Golden Compass (His Dark Materials #1)",
+    "price": "\u00a318.77",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The God Delusion",
+    "price": "\u00a346.85",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Pride and Prejudice",
+    "price": "\u00a319.27",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Mere Christianity",
+    "price": "\u00a348.51",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Fun Home: A Family Tragicomic",
+    "price": "\u00a356.59",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Raven King (The Raven Cycle #4)",
+    "price": "\u00a330.57",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Find Her (Detective D.D. Warren #8)",
+    "price": "\u00a322.37",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Evicted: Poverty and Profit in the American City",
+    "price": "\u00a342.27",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "A Game of Thrones (A Song of Ice and Fire #1)",
+    "price": "\u00a346.42",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "A Clash of Kings (A Song of Ice and Fire #2)",
+    "price": "\u00a310.79",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Tipping Point: How Little Things Can Make a Big Difference",
+    "price": "\u00a310.02",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Rest Is Noise: Listening to the Twentieth Century",
+    "price": "\u00a334.77",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Purpose Driven Life: What on Earth Am I Here for?",
+    "price": "\u00a337.19",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1)",
+    "price": "\u00a347.80",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)",
+    "price": "\u00a357.48",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The End of Faith: Religion, Terror, and the Future of Reason",
+    "price": "\u00a322.13",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Complete Poems",
+    "price": "\u00a341.32",
+    "rating": 5,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Catcher in the Rye",
+    "price": "\u00a324.55",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Case for Christ (Cases for Christianity)",
+    "price": "\u00a347.84",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Blind Side: Evolution of a Game",
+    "price": "\u00a353.71",
+    "rating": 5,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Seven Days in the Art World",
+    "price": "\u00a352.33",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Sarah's Key",
+    "price": "\u00a346.29",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Rogue Lawyer (Rogue Lawyer #1)",
+    "price": "\u00a350.11",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Manuscript Found in Accra",
+    "price": "\u00a334.98",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Fire Bound (Sea Haven/Sisters of the Heart #5)",
+    "price": "\u00a321.28",
+    "rating": 4,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Cosmos",
+    "price": "\u00a336.17",
+    "rating": 2,
+    "category": "Add a comment"
+  },
+  {
+    "name": "#GIRLBOSS",
+    "price": "\u00a350.96",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Sense of an Ending",
+    "price": "\u00a331.38",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Republic",
+    "price": "\u00a333.78",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Odyssey",
+    "price": "\u00a329.64",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Light of the Fireflies",
+    "price": "\u00a354.43",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Iliad",
+    "price": "\u00a316.16",
+    "rating": 1,
+    "category": "Add a comment"
+  },
+  {
+    "name": "The Communist Manifesto",
+    "price": "\u00a314.76",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Lord of the Flies",
+    "price": "\u00a324.89",
+    "rating": 3,
+    "category": "Add a comment"
+  },
+  {
+    "name": "Unicorn Tracks",
+    "price": "\u00a318.78",
+    "rating": 3,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Saga, Volume 6 (Saga (Collected Editions) #6)",
+    "price": "\u00a325.02",
+    "rating": 3,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Princess Between Worlds (Wide-Awake Princess #5)",
+    "price": "\u00a313.34",
+    "rating": 5,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Masks and Shadows",
+    "price": "\u00a356.40",
+    "rating": 2,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Crown of Midnight (Throne of Glass #2)",
+    "price": "\u00a343.29",
+    "rating": 3,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",
+    "price": "\u00a328.09",
+    "rating": 2,
+    "category": "Fantasy"
+  },
+  {
+    "name": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+    "price": "\u00a352.37",
+    "rating": 1,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Throne of Glass (Throne of Glass #1)",
+    "price": "\u00a335.07",
+    "rating": 3,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The Glittering Court (The Glittering Court #1)",
+    "price": "\u00a344.28",
+    "rating": 1,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Hollow City (Miss Peregrine\u2019s Peculiar Children #2)",
+    "price": "\u00a342.98",
+    "rating": 1,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The Star-Touched Queen",
+    "price": "\u00a346.02",
+    "rating": 5,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The Hidden Oracle (The Trials of Apollo #1)",
+    "price": "\u00a352.26",
+    "rating": 2,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The Bane Chronicles (The Bane Chronicles #1-11)",
+    "price": "\u00a344.73",
+    "rating": 4,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Island of Dragons (Unwanteds #7)",
+    "price": "\u00a329.65",
+    "rating": 1,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)",
+    "price": "\u00a337.51",
+    "rating": 5,
+    "category": "Fantasy"
+  },
+  {
+    "name": "City of Glass (The Mortal Instruments #3)",
+    "price": "\u00a356.02",
+    "rating": 4,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Searching for Meaning in Gailana",
+    "price": "\u00a338.73",
+    "rating": 1,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The Star-Touched Queen",
+    "price": "\u00a332.30",
+    "rating": 5,
+    "category": "Fantasy"
+  },
+  {
+    "name": "A Shard of Ice (The Black Symphony Saga #1)",
+    "price": "\u00a356.63",
+    "rating": 3,
+    "category": "Fantasy"
+  },
+  {
+    "name": "King's Folly (The Kinsman Chronicles #1)",
+    "price": "\u00a339.61",
+    "rating": 5,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Every Heart a Doorway (Every Heart A Doorway #1)",
+    "price": "\u00a312.16",
+    "rating": 5,
+    "category": "Fantasy"
+  },
+  {
+    "name": "A Gathering of Shadows (Shades of Magic #2)",
+    "price": "\u00a344.81",
+    "rating": 4,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The Raven Boys (The Raven Cycle #1)",
+    "price": "\u00a357.74",
+    "rating": 4,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The False Prince (The Ascendance Trilogy #1)",
+    "price": "\u00a356.00",
+    "rating": 5,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Tell the Wind and Fire",
+    "price": "\u00a345.51",
+    "rating": 3,
+    "category": "Fantasy"
+  },
+  {
+    "name": "A Feast for Crows (A Song of Ice and Fire #4)",
+    "price": "\u00a317.21",
+    "rating": 4,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The Demonists (Demonist #1)",
+    "price": "\u00a352.11",
+    "rating": 2,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The Beast (Black Dagger Brotherhood #14)",
+    "price": "\u00a346.08",
+    "rating": 5,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Paper and Fire (The Great Library #2)",
+    "price": "\u00a349.45",
+    "rating": 5,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Harry Potter and the Order of the Phoenix (Harry Potter #5)",
+    "price": "\u00a331.63",
+    "rating": 4,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Harry Potter and the Half-Blood Prince (Harry Potter #6)",
+    "price": "\u00a348.75",
+    "rating": 5,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Harry Potter and the Chamber of Secrets (Harry Potter #2)",
+    "price": "\u00a314.74",
+    "rating": 1,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The Rose & the Dagger (The Wrath and the Dawn #2)",
+    "price": "\u00a358.64",
+    "rating": 4,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Soldier (Talon #3)",
+    "price": "\u00a324.72",
+    "rating": 2,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Midnight Riot (Peter Grant/ Rivers of London - books #1)",
+    "price": "\u00a355.46",
+    "rating": 2,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Heir to the Sky",
+    "price": "\u00a344.07",
+    "rating": 4,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Eragon (The Inheritance Cycle #1)",
+    "price": "\u00a343.87",
+    "rating": 3,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Darkfever (Fever #1)",
+    "price": "\u00a356.02",
+    "rating": 1,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Ash",
+    "price": "\u00a322.06",
+    "rating": 4,
+    "category": "Fantasy"
+  },
+  {
+    "name": "A Storm of Swords (A Song of Ice and Fire #3)",
+    "price": "\u00a331.22",
+    "rating": 2,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Vampire Girl (Vampire Girl #1)",
+    "price": "\u00a353.82",
+    "rating": 2,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The Silent Twin (Detective Jennifer Knight #3)",
+    "price": "\u00a336.25",
+    "rating": 3,
+    "category": "Fantasy"
+  },
+  {
+    "name": "The Mirror & the Maze (The Wrath and the Dawn #1.5)",
+    "price": "\u00a329.38",
+    "rating": 1,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Sister Sable (The Mad Queen #1)",
+    "price": "\u00a313.33",
+    "rating": 3,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Shadow Rites (Jane Yellowrock #10)",
+    "price": "\u00a321.72",
+    "rating": 4,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Origins (Alphas 0.5)",
+    "price": "\u00a328.99",
+    "rating": 1,
+    "category": "Fantasy"
+  },
+  {
+    "name": "One Second (Seven #7)",
+    "price": "\u00a352.94",
+    "rating": 2,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Myriad (Prentor #1)",
+    "price": "\u00a358.75",
+    "rating": 4,
+    "category": "Fantasy"
+  },
+  {
+    "name": "Without Borders (Wanderlove #1)",
+    "price": "\u00a345.07",
+    "rating": 2,
+    "category": "New Adult"
+  },
+  {
+    "name": "The Mistake (Off-Campus #2)",
+    "price": "\u00a343.29",
+    "rating": 3,
+    "category": "New Adult"
+  },
+  {
+    "name": "The Matchmaker's Playbook (Wingmen Inc. #1)",
+    "price": "\u00a355.85",
+    "rating": 1,
+    "category": "New Adult"
+  },
+  {
+    "name": "The Hook Up (Game On #1)",
+    "price": "\u00a336.29",
+    "rating": 5,
+    "category": "New Adult"
+  },
+  {
+    "name": "Shameless",
+    "price": "\u00a358.35",
+    "rating": 3,
+    "category": "New Adult"
+  },
+  {
+    "name": "Off Sides (Off #1)",
+    "price": "\u00a339.45",
+    "rating": 5,
+    "category": "New Adult"
+  },
+  {
+    "name": "The Requiem Red",
+    "price": "\u00a322.65",
+    "rating": 1,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Set Me Free",
+    "price": "\u00a317.46",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "The Natural History of Us (The Fine Art of Pretending #2)",
+    "price": "\u00a345.22",
+    "rating": 3,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Obsidian (Lux #1)",
+    "price": "\u00a314.86",
+    "rating": 2,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Burning",
+    "price": "\u00a328.81",
+    "rating": 3,
+    "category": "Young Adult"
+  },
+  {
+    "name": "A Fierce and Subtle Poison",
+    "price": "\u00a328.13",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Scarlett Epstein Hates It Here",
+    "price": "\u00a343.55",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Nightingale, Sing",
+    "price": "\u00a338.28",
+    "rating": 1,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Library of Souls (Miss Peregrine\u2019s Peculiar Children #3)",
+    "price": "\u00a348.56",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Frostbite (Vampire Academy #2)",
+    "price": "\u00a329.99",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Wild Swans",
+    "price": "\u00a314.36",
+    "rating": 2,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Until Friday Night (The Field Party #1)",
+    "price": "\u00a346.31",
+    "rating": 2,
+    "category": "Young Adult"
+  },
+  {
+    "name": "This Is Where It Ends",
+    "price": "\u00a327.12",
+    "rating": 2,
+    "category": "Young Adult"
+  },
+  {
+    "name": "The Darkest Lie",
+    "price": "\u00a335.35",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "My Kind of Crazy",
+    "price": "\u00a340.36",
+    "rating": 1,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Don't Get Caught",
+    "price": "\u00a355.35",
+    "rating": 1,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Catching Jordan (Hundred Oaks)",
+    "price": "\u00a350.83",
+    "rating": 3,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)",
+    "price": "\u00a358.14",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "The Epidemic (The Program 0.6)",
+    "price": "\u00a314.44",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Stars Above (The Lunar Chronicles #4.5)",
+    "price": "\u00a348.05",
+    "rating": 2,
+    "category": "Young Adult"
+  },
+  {
+    "name": "No Love Allowed (Dodge Cove #1)",
+    "price": "\u00a354.65",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Exit, Pursued by a Bear",
+    "price": "\u00a351.34",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "The Alien Club",
+    "price": "\u00a354.40",
+    "rating": 1,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Don't Forget Steven",
+    "price": "\u00a333.23",
+    "rating": 1,
+    "category": "Young Adult"
+  },
+  {
+    "name": "South of Sunshine",
+    "price": "\u00a328.93",
+    "rating": 1,
+    "category": "Young Adult"
+  },
+  {
+    "name": "My Life Next Door (My Life Next Door )",
+    "price": "\u00a336.39",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Future Shock (Future Shock #1)",
+    "price": "\u00a355.65",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Nightstruck: A Novel",
+    "price": "\u00a350.35",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Tell the Wolves I'm Home",
+    "price": "\u00a350.96",
+    "rating": 2,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Will Grayson, Will Grayson (Will Grayson, Will Grayson)",
+    "price": "\u00a347.31",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Where She Went (If I Stay #2)",
+    "price": "\u00a341.73",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Two Summers",
+    "price": "\u00a314.64",
+    "rating": 1,
+    "category": "Young Adult"
+  },
+  {
+    "name": "The Darkest Corners",
+    "price": "\u00a311.33",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Tell Me Three Things",
+    "price": "\u00a341.81",
+    "rating": 1,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Lola and the Boy Next Door (Anna and the French Kiss #2)",
+    "price": "\u00a323.63",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Kill the Boy Band",
+    "price": "\u00a315.52",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Isla and the Happily Ever After (Anna and the French Kiss #3)",
+    "price": "\u00a348.13",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "An Abundance of Katherines",
+    "price": "\u00a310.00",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Harry Potter and the Prisoner of Azkaban (Harry Potter #3)",
+    "price": "\u00a324.17",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Walk the Edge (Thunder Road #2)",
+    "price": "\u00a332.36",
+    "rating": 3,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Two Boys Kissing",
+    "price": "\u00a332.74",
+    "rating": 2,
+    "category": "Young Adult"
+  },
+  {
+    "name": "The New Guy (and Other Senior Year Distractions)",
+    "price": "\u00a344.92",
+    "rating": 3,
+    "category": "Young Adult"
+  },
+  {
+    "name": "The Land of 10,000 Madonnas",
+    "price": "\u00a329.64",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Scarlet (The Lunar Chronicles #2)",
+    "price": "\u00a314.57",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Legend (Legend #1)",
+    "price": "\u00a343.69",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Lady Renegades (Rebel Belle #3)",
+    "price": "\u00a353.04",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Golden (Heart of Dread #3)",
+    "price": "\u00a342.21",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Cinder (The Lunar Chronicles #1)",
+    "price": "\u00a326.09",
+    "rating": 1,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Boy Meets Boy",
+    "price": "\u00a321.12",
+    "rating": 3,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Annie on My Mind",
+    "price": "\u00a336.83",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "New Moon (Twilight #2)",
+    "price": "\u00a312.86",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "Girl Online On Tour (Girl Online #2)",
+    "price": "\u00a353.47",
+    "rating": 1,
+    "category": "Young Adult"
+  },
+  {
+    "name": "The Haters",
+    "price": "\u00a327.89",
+    "rating": 5,
+    "category": "Young Adult"
+  },
+  {
+    "name": "The Art of Not Breathing",
+    "price": "\u00a340.83",
+    "rating": 4,
+    "category": "Young Adult"
+  },
+  {
+    "name": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+    "price": "\u00a342.96",
+    "rating": 4,
+    "category": "Science"
+  },
+  {
+    "name": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+    "price": "\u00a357.36",
+    "rating": 5,
+    "category": "Science"
+  },
+  {
+    "name": "Sorting the Beef from the Bull: The Science of Food Fraud Forensics",
+    "price": "\u00a344.74",
+    "rating": 4,
+    "category": "Science"
+  },
+  {
+    "name": "Tipping Point for Planet Earth: How Close Are We to the Edge?",
+    "price": "\u00a337.55",
+    "rating": 1,
+    "category": "Science"
+  },
+  {
+    "name": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+    "price": "\u00a355.91",
+    "rating": 1,
+    "category": "Science"
+  },
+  {
+    "name": "Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World",
+    "price": "\u00a328.41",
+    "rating": 1,
+    "category": "Science"
+  },
+  {
+    "name": "The Origin of Species",
+    "price": "\u00a310.01",
+    "rating": 4,
+    "category": "Science"
+  },
+  {
+    "name": "The Grand Design",
+    "price": "\u00a313.76",
+    "rating": 3,
+    "category": "Science"
+  },
+  {
+    "name": "Peak: Secrets from the New Science of Expertise",
+    "price": "\u00a316.28",
+    "rating": 2,
+    "category": "Science"
+  },
+  {
+    "name": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+    "price": "\u00a313.03",
+    "rating": 4,
+    "category": "Science"
+  },
+  {
+    "name": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
+    "price": "\u00a357.35",
+    "rating": 5,
+    "category": "Science"
+  },
+  {
+    "name": "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
+    "price": "\u00a325.83",
+    "rating": 2,
+    "category": "Science"
+  },
+  {
+    "name": "Seven Brief Lessons on Physics",
+    "price": "\u00a330.60",
+    "rating": 4,
+    "category": "Science"
+  },
+  {
+    "name": "The Selfish Gene",
+    "price": "\u00a329.45",
+    "rating": 1,
+    "category": "Science"
+  },
+  {
+    "name": "A Light in the Attic",
+    "price": "\u00a351.77",
+    "rating": 3,
+    "category": "Poetry"
+  },
+  {
+    "name": "The Black Maria",
+    "price": "\u00a352.15",
+    "rating": 1,
+    "category": "Poetry"
+  },
+  {
+    "name": "Shakespeare's Sonnets",
+    "price": "\u00a320.66",
+    "rating": 4,
+    "category": "Poetry"
+  },
+  {
+    "name": "Olio",
+    "price": "\u00a323.88",
+    "rating": 1,
+    "category": "Poetry"
+  },
+  {
+    "name": "You can't bury them all: Poems",
+    "price": "\u00a333.63",
+    "rating": 2,
+    "category": "Poetry"
+  },
+  {
+    "name": "Slow States of Collapse: Poems",
+    "price": "\u00a357.31",
+    "rating": 3,
+    "category": "Poetry"
+  },
+  {
+    "name": "Untitled Collection: Sabbath Poems 2014",
+    "price": "\u00a314.27",
+    "rating": 4,
+    "category": "Poetry"
+  },
+  {
+    "name": "Poems That Make Grown Women Cry",
+    "price": "\u00a314.19",
+    "rating": 4,
+    "category": "Poetry"
+  },
+  {
+    "name": "Night Sky with Exit Wounds",
+    "price": "\u00a341.05",
+    "rating": 1,
+    "category": "Poetry"
+  },
+  {
+    "name": "salt.",
+    "price": "\u00a346.78",
+    "rating": 4,
+    "category": "Poetry"
+  },
+  {
+    "name": "Quarter Life Poetry: Poems for the Young, Broke and Hangry",
+    "price": "\u00a350.89",
+    "rating": 5,
+    "category": "Poetry"
+  },
+  {
+    "name": "Out of Print: City Lights Spotlight No. 14",
+    "price": "\u00a353.64",
+    "rating": 5,
+    "category": "Poetry"
+  },
+  {
+    "name": "Les Fleurs du Mal",
+    "price": "\u00a329.04",
+    "rating": 5,
+    "category": "Poetry"
+  },
+  {
+    "name": "Howl and Other Poems",
+    "price": "\u00a340.45",
+    "rating": 2,
+    "category": "Poetry"
+  },
+  {
+    "name": "Leave This Song Behind: Teen Poetry at Its Best",
+    "price": "\u00a351.17",
+    "rating": 5,
+    "category": "Poetry"
+  },
+  {
+    "name": "The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)",
+    "price": "\u00a315.42",
+    "rating": 5,
+    "category": "Poetry"
+  },
+  {
+    "name": "The Crossover",
+    "price": "\u00a338.77",
+    "rating": 4,
+    "category": "Poetry"
+  },
+  {
+    "name": "Booked",
+    "price": "\u00a317.49",
+    "rating": 5,
+    "category": "Poetry"
+  },
+  {
+    "name": "Twenty Love Poems and a Song of Despair",
+    "price": "\u00a330.95",
+    "rating": 4,
+    "category": "Poetry"
+  },
+  {
+    "name": "Vampire Knight, Vol. 1 (Vampire Knight #1)",
+    "price": "\u00a315.40",
+    "rating": 1,
+    "category": "Paranormal"
+  },
+  {
+    "name": "Wall and Piece",
+    "price": "\u00a344.18",
+    "rating": 4,
+    "category": "Art"
+  },
+  {
+    "name": "Feathers: Displays of Brilliant Plumage",
+    "price": "\u00a349.05",
+    "rating": 3,
+    "category": "Art"
+  },
+  {
+    "name": "Art and Fear: Observations on the Perils (and Rewards) of Artmaking",
+    "price": "\u00a348.63",
+    "rating": 4,
+    "category": "Art"
+  },
+  {
+    "name": "The New Drawing on the Right Side of the Brain",
+    "price": "\u00a343.02",
+    "rating": 3,
+    "category": "Art"
+  },
+  {
+    "name": "History of Beauty",
+    "price": "\u00a310.29",
+    "rating": 4,
+    "category": "Art"
+  },
+  {
+    "name": "The Story of Art",
+    "price": "\u00a341.14",
+    "rating": 4,
+    "category": "Art"
+  },
+  {
+    "name": "The Art Book",
+    "price": "\u00a332.34",
+    "rating": 2,
+    "category": "Art"
+  },
+  {
+    "name": "Ways of Seeing",
+    "price": "\u00a339.51",
+    "rating": 5,
+    "category": "Art"
+  },
+  {
+    "name": "The Lucifer Effect: Understanding How Good People Turn Evil",
+    "price": "\u00a310.40",
+    "rating": 1,
+    "category": "Psychology"
+  },
+  {
+    "name": "The Golden Condom: And Other Essays on Love Lost and Found",
+    "price": "\u00a339.43",
+    "rating": 1,
+    "category": "Psychology"
+  },
+  {
+    "name": "It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle",
+    "price": "\u00a356.27",
+    "rating": 3,
+    "category": "Psychology"
+  },
+  {
+    "name": "An Unquiet Mind: A Memoir of Moods and Madness",
+    "price": "\u00a321.30",
+    "rating": 3,
+    "category": "Psychology"
+  },
+  {
+    "name": "Thinking, Fast and Slow",
+    "price": "\u00a321.14",
+    "rating": 1,
+    "category": "Psychology"
+  },
+  {
+    "name": "Civilization and Its Discontents",
+    "price": "\u00a359.95",
+    "rating": 2,
+    "category": "Psychology"
+  },
+  {
+    "name": "8 Keys to Mental Health Through Exercise",
+    "price": "\u00a331.04",
+    "rating": 1,
+    "category": "Psychology"
+  },
+  {
+    "name": "The Argonauts",
+    "price": "\u00a310.93",
+    "rating": 2,
+    "category": "Autobiography"
+  },
+  {
+    "name": "M Train",
+    "price": "\u00a327.18",
+    "rating": 1,
+    "category": "Autobiography"
+  },
+  {
+    "name": "Lab Girl",
+    "price": "\u00a340.85",
+    "rating": 1,
+    "category": "Autobiography"
+  },
+  {
+    "name": "Approval Junkie: Adventures in Caring Too Much",
+    "price": "\u00a358.81",
+    "rating": 5,
+    "category": "Autobiography"
+  },
+  {
+    "name": "Running with Scissors",
+    "price": "\u00a312.91",
+    "rating": 4,
+    "category": "Autobiography"
+  },
+  {
+    "name": "Me Talk Pretty One Day",
+    "price": "\u00a357.60",
+    "rating": 2,
+    "category": "Autobiography"
+  },
+  {
+    "name": "Lust & Wonder",
+    "price": "\u00a311.87",
+    "rating": 2,
+    "category": "Autobiography"
+  },
+  {
+    "name": "Life Without a Recipe",
+    "price": "\u00a359.04",
+    "rating": 5,
+    "category": "Autobiography"
+  },
+  {
+    "name": "A Heartbreaking Work of Staggering Genius",
+    "price": "\u00a354.29",
+    "rating": 5,
+    "category": "Autobiography"
+  },
+  {
+    "name": "Catastrophic Happiness: Finding Joy in Childhood's Messy Years",
+    "price": "\u00a337.35",
+    "rating": 2,
+    "category": "Parenting"
+  },
+  {
+    "name": "Fifty Shades Freed (Fifty Shades #3)",
+    "price": "\u00a315.36",
+    "rating": 5,
+    "category": "Adult Fiction"
+  },
+  {
+    "name": "The Long Haul (Diary of a Wimpy Kid #9)",
+    "price": "\u00a344.07",
+    "rating": 1,
+    "category": "Humor"
+  },
+  {
+    "name": "Old School (Diary of a Wimpy Kid #10)",
+    "price": "\u00a311.83",
+    "rating": 5,
+    "category": "Humor"
+  },
+  {
+    "name": "I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction",
+    "price": "\u00a325.98",
+    "rating": 4,
+    "category": "Humor"
+  },
+  {
+    "name": "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
+    "price": "\u00a314.75",
+    "rating": 5,
+    "category": "Humor"
+  },
+  {
+    "name": "Dress Your Family in Corduroy and Denim",
+    "price": "\u00a343.68",
+    "rating": 3,
+    "category": "Humor"
+  },
+  {
+    "name": "Toddlers Are A**holes: It's Not Your Fault",
+    "price": "\u00a325.55",
+    "rating": 1,
+    "category": "Humor"
+  },
+  {
+    "name": "When You Are Engulfed in Flames",
+    "price": "\u00a330.89",
+    "rating": 5,
+    "category": "Humor"
+  },
+  {
+    "name": "Naked",
+    "price": "\u00a331.69",
+    "rating": 3,
+    "category": "Humor"
+  },
+  {
+    "name": "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+    "price": "\u00a355.50",
+    "rating": 5,
+    "category": "Humor"
+  },
+  {
+    "name": "Holidays on Ice",
+    "price": "\u00a351.07",
+    "rating": 2,
+    "category": "Humor"
+  },
+  {
+    "name": "Security",
+    "price": "\u00a339.25",
+    "rating": 2,
+    "category": "Horror"
+  },
+  {
+    "name": "Follow You Home",
+    "price": "\u00a321.36",
+    "rating": 1,
+    "category": "Horror"
+  },
+  {
+    "name": "The Loney",
+    "price": "\u00a323.40",
+    "rating": 1,
+    "category": "Horror"
+  },
+  {
+    "name": "Pet Sematary",
+    "price": "\u00a310.56",
+    "rating": 3,
+    "category": "Horror"
+  },
+  {
+    "name": "Doctor Sleep (The Shining #2)",
+    "price": "\u00a340.12",
+    "rating": 2,
+    "category": "Horror"
+  },
+  {
+    "name": "Psycho: Sanitarium (Psycho #1.5)",
+    "price": "\u00a336.97",
+    "rating": 5,
+    "category": "Horror"
+  },
+  {
+    "name": "Can You Keep a Secret? (Fear Street Relaunch #4)",
+    "price": "\u00a348.64",
+    "rating": 1,
+    "category": "Horror"
+  },
+  {
+    "name": "Red Dragon (Hannibal Lecter #1)",
+    "price": "\u00a323.37",
+    "rating": 3,
+    "category": "Horror"
+  },
+  {
+    "name": "Dracula the Un-Dead",
+    "price": "\u00a335.63",
+    "rating": 5,
+    "category": "Horror"
+  },
+  {
+    "name": "Night Shift (Night Shift #1-20)",
+    "price": "\u00a312.75",
+    "rating": 4,
+    "category": "Horror"
+  },
+  {
+    "name": "Needful Things",
+    "price": "\u00a347.51",
+    "rating": 4,
+    "category": "Horror"
+  },
+  {
+    "name": "Misery",
+    "price": "\u00a334.79",
+    "rating": 2,
+    "category": "Horror"
+  },
+  {
+    "name": "It",
+    "price": "\u00a325.01",
+    "rating": 3,
+    "category": "Horror"
+  },
+  {
+    "name": "'Salem's Lot",
+    "price": "\u00a349.56",
+    "rating": 4,
+    "category": "Horror"
+  },
+  {
+    "name": "The Stand",
+    "price": "\u00a357.86",
+    "rating": 2,
+    "category": "Horror"
+  },
+  {
+    "name": "The Girl with All the Gifts",
+    "price": "\u00a349.47",
+    "rating": 3,
+    "category": "Horror"
+  },
+  {
+    "name": "House of Leaves",
+    "price": "\u00a354.89",
+    "rating": 1,
+    "category": "Horror"
+  },
+  {
+    "name": "Sapiens: A Brief History of Humankind",
+    "price": "\u00a354.23",
+    "rating": 5,
+    "category": "History"
+  },
+  {
+    "name": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+    "price": "\u00a325.52",
+    "rating": 1,
+    "category": "History"
+  },
+  {
+    "name": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+    "price": "\u00a319.73",
+    "rating": 1,
+    "category": "History"
+  },
+  {
+    "name": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+    "price": "\u00a336.28",
+    "rating": 2,
+    "category": "History"
+  },
+  {
+    "name": "Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History",
+    "price": "\u00a359.64",
+    "rating": 1,
+    "category": "History"
+  },
+  {
+    "name": "Zealot: The Life and Times of Jesus of Nazareth",
+    "price": "\u00a324.70",
+    "rating": 3,
+    "category": "History"
+  },
+  {
+    "name": "A Distant Mirror: The Calamitous 14th Century",
+    "price": "\u00a314.58",
+    "rating": 3,
+    "category": "History"
+  },
+  {
+    "name": "1491: New Revelations of the Americas Before Columbus",
+    "price": "\u00a321.80",
+    "rating": 3,
+    "category": "History"
+  },
+  {
+    "name": "Brilliant Beacons: A History of the American Lighthouse",
+    "price": "\u00a311.45",
+    "rating": 3,
+    "category": "History"
+  },
+  {
+    "name": "\"Most Blessed of the Patriarchs\": Thomas Jefferson and the Empire of the Imagination",
+    "price": "\u00a344.48",
+    "rating": 5,
+    "category": "History"
+  },
+  {
+    "name": "A Short History of Nearly Everything",
+    "price": "\u00a352.40",
+    "rating": 5,
+    "category": "History"
+  },
+  {
+    "name": "The Rise and Fall of the Third Reich: A History of Nazi Germany",
+    "price": "\u00a339.67",
+    "rating": 2,
+    "category": "History"
+  },
+  {
+    "name": "Catherine the Great: Portrait of a Woman",
+    "price": "\u00a358.55",
+    "rating": 4,
+    "category": "History"
+  },
+  {
+    "name": "The Mathews Men: Seven Brothers and the War Against Hitler's U-boats",
+    "price": "\u00a342.91",
+    "rating": 5,
+    "category": "History"
+  },
+  {
+    "name": "The Hiding Place",
+    "price": "\u00a355.91",
+    "rating": 4,
+    "category": "History"
+  },
+  {
+    "name": "America's War for the Greater Middle East: A Military History",
+    "price": "\u00a351.22",
+    "rating": 2,
+    "category": "History"
+  },
+  {
+    "name": "The Guns of August",
+    "price": "\u00a314.54",
+    "rating": 2,
+    "category": "History"
+  },
+  {
+    "name": "House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",
+    "price": "\u00a343.70",
+    "rating": 2,
+    "category": "History"
+  },
+  {
+    "name": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+    "price": "\u00a330.52",
+    "rating": 3,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+    "price": "\u00a356.41",
+    "rating": 1,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "My Paris Kitchen: Recipes and Stories",
+    "price": "\u00a333.37",
+    "rating": 2,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+    "price": "\u00a314.02",
+    "rating": 4,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Layered: Baking, Building, and Styling Spectacular Cakes",
+    "price": "\u00a340.11",
+    "rating": 1,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us",
+    "price": "\u00a337.34",
+    "rating": 5,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking",
+    "price": "\u00a337.60",
+    "rating": 2,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First",
+    "price": "\u00a341.25",
+    "rating": 1,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",
+    "price": "\u00a342.16",
+    "rating": 3,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth",
+    "price": "\u00a328.77",
+    "rating": 3,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",
+    "price": "\u00a319.55",
+    "rating": 1,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Barefoot Contessa Back to Basics",
+    "price": "\u00a328.01",
+    "rating": 1,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again",
+    "price": "\u00a350.62",
+    "rating": 5,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "My Kitchen Year: 136 Recipes That Saved My Life",
+    "price": "\u00a311.53",
+    "rating": 2,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Everyday Italian: 125 Simple and Delicious Recipes",
+    "price": "\u00a320.10",
+    "rating": 5,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",
+    "price": "\u00a338.77",
+    "rating": 1,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Cravings: Recipes for What You Want to Eat",
+    "price": "\u00a320.50",
+    "rating": 3,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",
+    "price": "\u00a312.34",
+    "rating": 4,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "32 Yolks",
+    "price": "\u00a353.63",
+    "rating": 2,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",
+    "price": "\u00a311.38",
+    "rating": 5,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything)",
+    "price": "\u00a346.01",
+    "rating": 4,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking",
+    "price": "\u00a328.25",
+    "rating": 2,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "The Barefoot Contessa Cookbook",
+    "price": "\u00a359.92",
+    "rating": 5,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Better Homes and Gardens New Cook Book",
+    "price": "\u00a339.61",
+    "rating": 3,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "The Power Greens Cookbook: 140 Delicious Superfood Recipes",
+    "price": "\u00a311.05",
+    "rating": 5,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens",
+    "price": "\u00a324.91",
+    "rating": 5,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Vegan Vegetarian Omnivore: Dinner for Everyone at the Table",
+    "price": "\u00a313.66",
+    "rating": 2,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "The Smitten Kitchen Cookbook",
+    "price": "\u00a323.59",
+    "rating": 1,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",
+    "price": "\u00a334.32",
+    "rating": 3,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World",
+    "price": "\u00a333.14",
+    "rating": 3,
+    "category": "Food and Drink"
+  },
+  {
+    "name": "Redeeming Love",
+    "price": "\u00a320.47",
+    "rating": 5,
+    "category": "Christian Fiction"
+  },
+  {
+    "name": "Close to You",
+    "price": "\u00a349.46",
+    "rating": 4,
+    "category": "Christian Fiction"
+  },
+  {
+    "name": "Shadows of the Past (Logan Point #1)",
+    "price": "\u00a339.67",
+    "rating": 5,
+    "category": "Christian Fiction"
+  },
+  {
+    "name": "Like Never Before (Walker Family #2)",
+    "price": "\u00a328.77",
+    "rating": 2,
+    "category": "Christian Fiction"
+  },
+  {
+    "name": "Counted With the Stars (Out from Egypt #1)",
+    "price": "\u00a317.97",
+    "rating": 5,
+    "category": "Christian Fiction"
+  },
+  {
+    "name": "If I Run (If I Run #1)",
+    "price": "\u00a349.97",
+    "rating": 4,
+    "category": "Christian Fiction"
+  },
+  {
+    "name": "The Dirty Little Secrets of Getting Your Dream Job",
+    "price": "\u00a333.34",
+    "rating": 4,
+    "category": "Business"
+  },
+  {
+    "name": "The Third Wave: An Entrepreneur\u2019s Vision of the Future",
+    "price": "\u00a312.61",
+    "rating": 5,
+    "category": "Business"
+  },
+  {
+    "name": "The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job",
+    "price": "\u00a327.55",
+    "rating": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Shoe Dog: A Memoir by the Creator of NIKE",
+    "price": "\u00a323.99",
+    "rating": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Made to Stick: Why Some Ideas Survive and Others Die",
+    "price": "\u00a338.85",
+    "rating": 5,
+    "category": "Business"
+  },
+  {
+    "name": "Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two",
+    "price": "\u00a343.14",
+    "rating": 1,
+    "category": "Business"
+  },
+  {
+    "name": "The Art of Startup Fundraising",
+    "price": "\u00a321.00",
+    "rating": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Born for This: How to Find the Work You Were Meant to Do",
+    "price": "\u00a321.59",
+    "rating": 5,
+    "category": "Business"
+  },
+  {
+    "name": "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+    "price": "\u00a336.91",
+    "rating": 1,
+    "category": "Business"
+  },
+  {
+    "name": "Rich Dad, Poor Dad",
+    "price": "\u00a351.74",
+    "rating": 1,
+    "category": "Business"
+  },
+  {
+    "name": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+    "price": "\u00a333.92",
+    "rating": 3,
+    "category": "Business"
+  },
+  {
+    "name": "Rework",
+    "price": "\u00a344.88",
+    "rating": 2,
+    "category": "Business"
+  },
+  {
+    "name": "Louisa: The Extraordinary Life of Mrs. Adams",
+    "price": "\u00a316.85",
+    "rating": 2,
+    "category": "Biography"
+  },
+  {
+    "name": "Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",
+    "price": "\u00a321.15",
+    "rating": 2,
+    "category": "Biography"
+  },
+  {
+    "name": "The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist",
+    "price": "\u00a339.55",
+    "rating": 1,
+    "category": "Biography"
+  },
+  {
+    "name": "Benjamin Franklin: An American Life",
+    "price": "\u00a348.19",
+    "rating": 3,
+    "category": "Biography"
+  },
+  {
+    "name": "The Rise of Theodore Roosevelt (Theodore Roosevelt #1)",
+    "price": "\u00a342.57",
+    "rating": 3,
+    "category": "Biography"
+  },
+  {
+    "name": "In Her Wake",
+    "price": "\u00a312.84",
+    "rating": 1,
+    "category": "Thriller"
+  },
+  {
+    "name": "The Elephant Tree",
+    "price": "\u00a323.82",
+    "rating": 5,
+    "category": "Thriller"
+  },
+  {
+    "name": "Behind Closed Doors",
+    "price": "\u00a352.22",
+    "rating": 4,
+    "category": "Thriller"
+  },
+  {
+    "name": "You (You #1)",
+    "price": "\u00a343.61",
+    "rating": 5,
+    "category": "Thriller"
+  },
+  {
+    "name": "The Guilty (Will Robie #4)",
+    "price": "\u00a313.82",
+    "rating": 2,
+    "category": "Thriller"
+  },
+  {
+    "name": "The 14th Colony (Cotton Malone #11)",
+    "price": "\u00a339.24",
+    "rating": 1,
+    "category": "Thriller"
+  },
+  {
+    "name": "Give It Back",
+    "price": "\u00a318.32",
+    "rating": 2,
+    "category": "Thriller"
+  },
+  {
+    "name": "Killing Floor (Jack Reacher #1)",
+    "price": "\u00a331.49",
+    "rating": 4,
+    "category": "Thriller"
+  },
+  {
+    "name": "The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)",
+    "price": "\u00a359.71",
+    "rating": 3,
+    "category": "Thriller"
+  },
+  {
+    "name": "Far From True (Promise Falls Trilogy #2)",
+    "price": "\u00a334.93",
+    "rating": 2,
+    "category": "Thriller"
+  },
+  {
+    "name": "The Travelers",
+    "price": "\u00a315.77",
+    "rating": 1,
+    "category": "Thriller"
+  },
+  {
+    "name": "When We Collided",
+    "price": "\u00a331.77",
+    "rating": 1,
+    "category": "Contemporary"
+  },
+  {
+    "name": "Someone Like You (The Harrisons #2)",
+    "price": "\u00a352.79",
+    "rating": 5,
+    "category": "Contemporary"
+  },
+  {
+    "name": "We Are All Completely Beside Ourselves",
+    "price": "\u00a324.04",
+    "rating": 1,
+    "category": "Contemporary"
+  },
+  {
+    "name": "The Four Agreements: A Practical Guide to Personal Freedom",
+    "price": "\u00a317.66",
+    "rating": 5,
+    "category": "Spirituality"
+  },
+  {
+    "name": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+    "price": "\u00a332.24",
+    "rating": 5,
+    "category": "Spirituality"
+  },
+  {
+    "name": "Chasing Heaven: What Dying Taught Me About Living",
+    "price": "\u00a337.80",
+    "rating": 2,
+    "category": "Spirituality"
+  },
+  {
+    "name": "If I Gave You God's Phone Number....: Searching for Spirituality in America",
+    "price": "\u00a320.91",
+    "rating": 1,
+    "category": "Spirituality"
+  },
+  {
+    "name": "Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain",
+    "price": "\u00a346.33",
+    "rating": 2,
+    "category": "Spirituality"
+  },
+  {
+    "name": "A New Earth: Awakening to Your Life's Purpose",
+    "price": "\u00a355.65",
+    "rating": 5,
+    "category": "Spirituality"
+  },
+  {
+    "name": "Logan Kade (Fallen Crest High #5.5)",
+    "price": "\u00a313.12",
+    "rating": 2,
+    "category": "Academic"
+  },
+  {
+    "name": "Online Marketing for Busy Authors: A Step-By-Step Guide",
+    "price": "\u00a346.35",
+    "rating": 1,
+    "category": "Self Help"
+  },
+  {
+    "name": "How to Be Miserable: 40 Strategies You Already Use",
+    "price": "\u00a346.03",
+    "rating": 1,
+    "category": "Self Help"
+  },
+  {
+    "name": "Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",
+    "price": "\u00a352.15",
+    "rating": 3,
+    "category": "Self Help"
+  },
+  {
+    "name": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+    "price": "\u00a312.08",
+    "rating": 3,
+    "category": "Self Help"
+  },
+  {
+    "name": "How to Stop Worrying and Start Living",
+    "price": "\u00a346.49",
+    "rating": 5,
+    "category": "Self Help"
+  },
+  {
+    "name": "All the Light We Cannot See",
+    "price": "\u00a329.87",
+    "rating": 5,
+    "category": "Historical"
+  },
+  {
+    "name": "The Girl You Left Behind (The Girl You Left Behind #1)",
+    "price": "\u00a315.79",
+    "rating": 1,
+    "category": "Historical"
+  },
+  {
+    "name": "(Un)Qualified: How God Uses Broken People to Do Big Things",
+    "price": "\u00a354.00",
+    "rating": 5,
+    "category": "Christian"
+  },
+  {
+    "name": "Crazy Love: Overwhelmed by a Relentless God",
+    "price": "\u00a347.72",
+    "rating": 2,
+    "category": "Christian"
+  },
+  {
+    "name": "Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality",
+    "price": "\u00a325.77",
+    "rating": 1,
+    "category": "Christian"
+  },
+  {
+    "name": "Silence in the Dark (Logan Point #4)",
+    "price": "\u00a358.33",
+    "rating": 3,
+    "category": "Suspense"
+  },
+  {
+    "name": "The Grownup",
+    "price": "\u00a335.88",
+    "rating": 1,
+    "category": "Short Stories"
+  },
+  {
+    "name": "Suzie Snowflake: One beautiful flake (a self-esteem story)",
+    "price": "\u00a354.81",
+    "rating": 5,
+    "category": "Novels"
+  },
+  {
+    "name": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+    "price": "\u00a349.05",
+    "rating": 3,
+    "category": "Health"
+  },
+  {
+    "name": "Eat Fat, Get Thin",
+    "price": "\u00a354.07",
+    "rating": 2,
+    "category": "Health"
+  },
+  {
+    "name": "10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!",
+    "price": "\u00a349.71",
+    "rating": 5,
+    "category": "Health"
+  },
+  {
+    "name": "The Art and Science of Low Carbohydrate Living",
+    "price": "\u00a352.98",
+    "rating": 5,
+    "category": "Health"
+  },
+  {
+    "name": "Libertarianism for Beginners",
+    "price": "\u00a351.33",
+    "rating": 2,
+    "category": "Politics"
+  },
+  {
+    "name": "Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond",
+    "price": "\u00a352.65",
+    "rating": 4,
+    "category": "Politics"
+  },
+  {
+    "name": "Equal Is Unfair: America's Misguided Fight Against Income Inequality",
+    "price": "\u00a356.86",
+    "rating": 1,
+    "category": "Politics"
+  },
+  {
+    "name": "Amid the Chaos",
+    "price": "\u00a336.58",
+    "rating": 1,
+    "category": "Cultural"
+  },
+  {
+    "name": "Dark Notes",
+    "price": "\u00a319.19",
+    "rating": 5,
+    "category": "Erotica"
+  },
+  {
+    "name": "The Long Shadow of Small Ghosts: Murder and Memory in an American City",
+    "price": "\u00a310.97",
+    "rating": 1,
+    "category": "Crime"
+  }
+]
